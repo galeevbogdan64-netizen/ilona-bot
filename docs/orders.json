@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-05T18:44:25.717072+00:00",
+ "updated": "2026-11-05T19:46:35.335021+00:00",
  "orders": [
+  {
+   "id": "ef0b0a678b54",
+   "title": "Html верстка",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528194/html-verstka.html",
+   "date": "2026-11-05T18:58:59+00:00",
+   "fit": 97,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «css, html, верстк, лендинг». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "f2bfc85c02ea",
+   "title": "Разработка интернет-магазина игровых услуг",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528191/razrabotka-internet-magazina-igrovyih-uslug.html",
+   "date": "2026-11-05T18:59:58+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "d6d18efde1ee",
    "title": "Верстка лендинга на Tilda по макету Figma",
