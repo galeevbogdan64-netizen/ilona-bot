@@ -1,4 +1,13 @@
 {
- "offset": 0,
- "users": {}
+ "offset": 627335994,
+ "users": {
+  "galeevbogdan": {
+   "on": {
+    "orders": true,
+    "lessons": true,
+    "ideas": true
+   },
+   "chat": 1553927415
+  }
+ }
 }
