@@ -1,0 +1,120 @@
+# ============================================================
+#  Настройки бота-поисковика заказов
+#  Меняй смело: после правки бот подхватит всё при следующем запуске.
+# ============================================================
+
+profile:
+  rate: 1500          # твоя ставка, ₽/час
+  min_price: 3000     # меньше этой суммы не предлагаем
+  min_fit: 55         # заказы с «подходит» ниже этого % не попадают в ленту
+  notify_fit: 70      # о заказах от этого % бот пишет в Telegram
+  max_age_hours: 48   # заказы старше — пропускаем
+
+# Что ты умеешь. Бот ищет эти слова в заголовке и описании заказа.
+# hours — сколько обычно занимает такая работа (для расчёта цены, если бюджет не указан).
+skills:
+  - name: Сайт / лендинг
+    hours: 12
+    keywords: [сайт, лендинг, landing, wordpress, вордпресс, tilda, тильда, вёрстк, верстк, html, css, интернет-магазин, woocommerce, одностраничн, сайт-визитк, доработать сайт, правки на сайте]
+  - name: Telegram-бот
+    hours: 14
+    keywords: [телеграм-бот, telegram-бот, телеграм бот, telegram бот, бот для телеграм, tg-бот, тг-бот, чат-бот, чат бот, aiogram, pytelegrambotapi, бот в телеграм, mini app]
+  - name: Логотип / фирменный стиль
+    hours: 6
+    keywords: [логотип, лого, logo, фирменный стиль, брендбук, айдентик, нейминг]
+  - name: Парсер / автоматизация
+    hours: 8
+    keywords: [парсер, парсинг, scraping, автоматизац, скрипт, python, n8n, make.com, google таблиц, гугл таблиц, интеграц, api]
+  - name: Приложение
+    hours: 40
+    keywords: [приложение, android, ios, flutter, react native, pwa, мобильн]
+
+# Если есть эти слова — заказ не подходит
+exclude: [1с, 1c, битрикс24 внедрение, unity, unreal, курсовая, диплом, реферат, накрутк, отзывы написать, казино, ставки, крипто-обмен, без оплаты, тестовое бесплатно]
+
+# ------------------------------------------------------------
+#  Источники. type: rss | telegram | html
+#  enabled: false — источник выключен.
+#  Источники с пометкой «эксперимент» могут не работать, если сайт изменит вёрстку
+#  или запретит автоматический доступ (бот проверяет robots.txt и пропускает запрещённое).
+# ------------------------------------------------------------
+sources:
+  - id: fl-programming
+    name: FL.ru
+    type: rss
+    url: https://www.fl.ru/rss/all.xml?category=5     # проверенная лента: «Программирование»
+    enabled: true
+  - id: fl-all
+    name: FL.ru
+    type: rss
+    url: https://www.fl.ru/rss/all.xml                 # все проекты (дизайн, сайты и т.д.), фильтруем по навыкам
+    enabled: true
+
+  # Публичные Telegram-каналы с заказами: впиши имена каналов (то, что после t.me/)
+  # Бот читает их открытую веб-версию t.me/s/<канал>, вход в Telegram не нужен.
+  - id: telegram
+    name: Telegram
+    type: telegram
+    channels: []          # например: [имя_канала_1, имя_канала_2]
+    enabled: true
+
+  # Любые другие RSS-ленты с заказами — просто добавь сюда
+  - id: extra-rss
+    name: RSS
+    type: rss
+    urls: []
+    enabled: true
+
+  # --- эксперимент: публичные страницы со списком заказов ---
+  - id: habr
+    name: Хабр Фриланс
+    type: html
+    url: https://freelance.habr.com/tasks
+    item: "li.content-list__item"
+    title: ".task__title a"
+    link: ".task__title a"
+    desc: ".task__tags"
+    budget: ".task__price"
+    enabled: true
+  - id: weblancer
+    name: Weblancer
+    type: html
+    url: https://www.weblancer.net/freelance/
+    item: "div.row.click_container-link"
+    title: "a.text-bold"
+    link: "a.text-bold"
+    desc: "p"
+    budget: ".amount"
+    enabled: true
+  - id: freelanceru
+    name: Freelance.ru
+    type: html
+    url: https://freelance.ru/project/search/pro
+    item: "div.project"
+    title: "h2 a"
+    link: "h2 a"
+    desc: ".description"
+    budget: ".cost"
+    enabled: true
+
+# ------------------------------------------------------------
+#  Необязательно: умная оценка заказов через Claude.
+#  Работает, только если задан секрет ANTHROPIC_API_KEY. Без него — оценка по ключевым словам.
+# ------------------------------------------------------------
+claude:
+  enabled: true
+  model: claude-haiku-5-5
+  max_per_run: 15       # сколько лучших заказов отдавать на оценку за запуск
+
+output:
+  orders_file: docs/orders.json
+  ideas_file: docs/ideas.json
+  keep: 200             # сколько заказов хранить в ленте
+
+# Кому бот присылает уведомления — ники в Telegram (без @).
+# Каждый из списка должен один раз открыть бота и нажать «Start» (или кнопку «Подключить» в приложении).
+# Чужим людям бот не пишет и их команды игнорирует.
+notify:
+  users:
+    - GaleevBogdan
+    # - ник_девушки

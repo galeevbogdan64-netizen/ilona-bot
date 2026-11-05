@@ -1,0 +1,27 @@
+name: Идеи недели
+on:
+  schedule:
+    - cron: "0 5 * * 1"   # каждый понедельник утром
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python ideas.py
+      - run: |
+          git pull --rebase -q || true
+          git config user.name "orders-bot"
+          git config user.email "orders-bot@users.noreply.github.com"
+          git add docs/ideas.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Идеи недели" && git push)

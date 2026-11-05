@@ -1,0 +1,6 @@
+<!DOCTYPE html><html lang="ru"><meta charset="utf-8"><title>Лента заказов</title>
+<body style="font-family:system-ui;background:#141416;color:#eee;padding:24px">
+<h1>Лента заказов для приложения «Ilona»</h1>
+<p>Адрес ленты для приложения: <code id="u"></code></p>
+<script>document.getElementById('u').textContent = location.href.replace(/index\.html$/, '').replace(/\/?$/, '/') + 'orders.json'</script>
+</body></html>

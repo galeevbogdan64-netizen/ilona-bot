@@ -1,0 +1,29 @@
+name: Поиск заказов
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # каждые 20 минут (GitHub может запускать с задержкой)
+  workflow_dispatch: {}       # кнопка «Run workflow» для ручного запуска
+permissions:
+  contents: write
+concurrency: { group: orders, cancel-in-progress: false }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Ищу заказы
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python bot.py
+      - name: Сохраняю ленту
+        run: |
+          git config user.name "orders-bot"
+          git config user.email "orders-bot@users.noreply.github.com"
+          git add docs/orders.json state/seen.json state/notify.json 2>/dev/null || git add docs/orders.json state/seen.json
+          git diff --cached --quiet || (git commit -m "Новые заказы" && (git push || (git pull --rebase && git push)))
