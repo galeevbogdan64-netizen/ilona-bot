@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T08:48:32.475785+00:00",
+ "updated": "2026-11-06T09:53:41.296220+00:00",
  "orders": [
+  {
+   "id": "0797e6b3e1a5",
+   "title": "Требуется создать рекламный ролик на 20 секунд жилого объекта с помощью ИИ",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528242/trebuetsya-sozdat-reklamnyiy-rolik-na-20-sekund--jilogo-obyekta-s-pomoschyu-ii-.html",
+   "date": "2026-11-06T09:29:47+00:00",
+   "fit": 67,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "ef232eaacf0c",
+   "title": "Настройка автоматического сбора комментариев и обращений из TikTok",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528228/nastroyka-avtomaticheskogo-sbora-kommentariev-i-obrascheniy-iz-tiktok.html",
+   "date": "2026-11-06T07:55:12+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «интеграц». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "0441ecf6b4f3",
    "title": "приложение на Android",
