@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-06T06:37:49.550268+00:00",
+ "updated": "2026-11-06T07:53:24.775015+00:00",
  "orders": [
+  {
+   "id": "0441ecf6b4f3",
+   "title": "приложение на Android",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528216/prilojenie-na-android.html",
+   "date": "2026-11-06T05:20:52+00:00",
+   "fit": 97,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «android, ios, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "a0e1a998fb92",
+   "title": "Перенос сайта на wordpress (Бюджет: 25 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528221/perenos-sayta-na-wordpress.html",
+   "date": "2026-11-06T06:41:29+00:00",
+   "fit": 89,
+   "price": 24000,
+   "hours": 12,
+   "budget": "25 000 ₽",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет клиента ~25 000 ₽"
+  },
+  {
+   "id": "243b95d238d8",
+   "title": "Разработка и верстка женского журнала",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528214/razrabotka-i-verstka-jenskogo-jurnala.html",
+   "date": "2026-11-06T06:13:14+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «верстк, вёрстк». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "703a9c399855",
+   "title": "Простое приложение для планшета - презентация",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528217/prostoe-prilojenie-dlya-plansheta---prezentatsiya.html",
+   "date": "2026-11-06T06:11:34+00:00",
+   "fit": 67,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "9288f1185da2",
+   "title": "Разместить разово короткий готовый текст (отзыв) на сайте (Бюджет: 150 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5481903/razmestit-razovo-korotkiy-gotovyiy-tekst-otzyiv-na-sayte.html",
+   "date": "2026-11-06T06:59:11+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "938630c552ea",
+   "title": "Верстка книги",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528220/verstka-knigi.html",
+   "date": "2026-11-06T06:41:15+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "8e15fb2fc788",
+   "title": "Проект Слаботочные Системы. Стадия РД (Бюджет: 500 000 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528222/proekt-slabotochnyie-sistemyi-stadiya-rd.html",
+   "date": "2026-11-06T06:52:50+00:00",
+   "fit": 57,
+   "price": 475000,
+   "hours": 8,
+   "budget": "500 000 ₽",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет клиента ~500 000 ₽"
+  },
+  {
+   "id": "206d4ffc369a",
+   "title": "Создать мини интернет магазин на 15-20 товаров. Предложить визуализацию главной страницы (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528212/sozdat-mini-internet-magazin-na-15-20-tovarov-predlojit-vizualizatsiyu-glavnoy-stranitsyi.html",
+   "date": "2026-11-06T06:06:53+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "a93e209e2b17",
    "title": "Создать софт или бота для игры для авто фарма (Бюджет: 15 000 ₽)",
