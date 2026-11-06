@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-06T16:06:27.855875+00:00",
+ "updated": "2026-11-06T17:11:29.715020+00:00",
  "orders": [
+  {
+   "id": "2502c5e558f3",
+   "title": "Разработка конвертящих сайтов и лендингов под ключ (Tilda / HTML) & Разработчик сайтов для бизнеса",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528301/razrabotka-konvertyaschih-saytov-i-lendingov-pod-klyuch-tilda---html--razrabotchik-saytov-dlya-biznesa.html",
+   "date": "2026-11-06T16:54:17+00:00",
+   "fit": 97,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «html, tilda, лендинг, одностраничн». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "3ac196f8ffa2",
    "title": "Копирайтинг текстов на сайт",
