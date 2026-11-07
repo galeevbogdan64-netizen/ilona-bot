@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-07T06:28:52.656638+00:00",
+ "updated": "2026-11-07T07:40:22.865031+00:00",
  "orders": [
+  {
+   "id": "2de97043cfdf",
+   "title": "Перерисовать игровой логотип в векторе в стиле Synty (Game UI) (Бюджет: 7 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528346/pererisovat-igrovoy-logotip-v-vektore-v-stile-synty-game-ui.html",
+   "date": "2026-11-07T07:03:06+00:00",
+   "fit": 89,
+   "price": 6500,
+   "hours": 6,
+   "budget": "7 000 ₽",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~7 000 ₽"
+  },
+  {
+   "id": "4012461a15e2",
+   "title": "Обновить дизайн главной страницы сайта Битрикс (мини-интернет магазин)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528349/obnovit-dizayn-glavnoy-stranitsyi-sayta-bitriks-mini-internet-magazin.html",
+   "date": "2026-11-07T07:17:18+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "407c7c897d30",
    "title": "Перенос товаров с одного сайта на другой (Бюджет: 250 ₽)",
