@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-07T12:37:17.068054+00:00",
+ "updated": "2026-11-07T13:32:53.536501+00:00",
  "orders": [
+  {
+   "id": "d85273f00bfc",
+   "title": "Сайт службы занятости с нуля на CMS (Бюджет: 70 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528373/sayt-slujbyi-zanyatosti-s-nulya-na-cms.html",
+   "date": "2026-11-07T11:54:47+00:00",
+   "fit": 79,
+   "price": 66500,
+   "hours": 12,
+   "budget": "70 000 ₽",
+   "why": "Сайт / лендинг: совпало «вёрстк, сайт». Бюджет клиента ~70 000 ₽"
+  },
+  {
+   "id": "c646f5c950f5",
+   "title": "Автоматизация сигналов StatVision Advisor и Харона для NinjaTrader 8",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528377/avtomatizatsiya-signalov-statvision-advisor-i-harona-dlya-ninjatrader-8.html",
+   "date": "2026-11-07T12:31:37+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "091370e1ac68",
+   "title": "SEO оптимизация сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528375/seo-optimizatsiya-sayta.html",
+   "date": "2026-11-07T12:28:23+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "88ee6f17867b",
+   "title": "Защита баз данных компании от Парсинга",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528374/zaschita-baz-dannyih-kompanii-ot-parsinga.html",
+   "date": "2026-11-07T11:55:31+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "6c962325533b",
    "title": "Настройка автопостинга в Telegram-группы и создание Telegram-ботов. Ищу 1-2 человек.",
