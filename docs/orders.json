@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T07:40:22.865031+00:00",
+ "updated": "2026-11-07T08:42:35.026225+00:00",
  "orders": [
+  {
+   "id": "8c0039b39365",
+   "title": "Разработка маркетплейса автозапчастей: 4 мобильных приложения + программа учёта для Windows",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528351/razrabotka-marketpleysa-avtozapchastey-4-mobilnyih-prilojeniya--programma-uchta-dlya-windows.html",
+   "date": "2026-11-07T07:47:46+00:00",
+   "fit": 79,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «мобильн, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
   {
    "id": "2de97043cfdf",
    "title": "Перерисовать игровой логотип в векторе в стиле Synty (Game UI) (Бюджет: 7 000 ₽)",
