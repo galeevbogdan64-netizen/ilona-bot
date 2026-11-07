@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-07T11:15:31.402244+00:00",
+ "updated": "2026-11-07T11:55:23.286463+00:00",
  "orders": [
+  {
+   "id": "6c962325533b",
+   "title": "Настройка автопостинга в Telegram-группы и создание Telegram-ботов. Ищу 1-2 человек.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528370/nastroyka-avtopostinga-v-telegram-gruppyi-i-sozdanie-telegram-botov-ischu-1-2-chelovek-.html",
+   "date": "2026-11-07T11:30:34+00:00",
+   "fit": 67,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «telegram-бот». Бюджет не указан — цена по ставке, ~14 ч"
+  },
   {
    "id": "ad4ad8ec4ee0",
    "title": "Обход блокировки и получение данных с сайта (парсер кэфов) (для всех)",
