@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-07T14:22:07.028648+00:00",
+ "updated": "2026-11-07T15:16:58.083620+00:00",
  "orders": [
+  {
+   "id": "6aa2b4f39ade",
+   "title": "Нужен разработчик: информационная система + чат-бот в мессенджере + Android-приложение",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528385/nujen-razrabotchik-informatsionnaya-sistema--chat-bot-v-messendjere--android-prilojenie.html",
+   "date": "2026-11-07T14:28:57+00:00",
+   "fit": 89,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «android, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "d5c1878012d4",
+   "title": "выполнить раздел АОВ/АК управления климатом в лаборатории на базе 40 футового контейнера",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528392/vyipolnit-razdel-aov-ak-upravleniya-klimatom-v-laboratorii-na-baze-40-futovogo-konteynera.html",
+   "date": "2026-11-07T14:58:29+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "d85769512272",
    "title": "Логотип для городской спортивной арены (Бюджет: 15 000 ₽)",
