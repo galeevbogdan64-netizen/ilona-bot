@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-07T22:54:47.335296+00:00",
+ "updated": "2026-11-07T23:27:13.490216+00:00",
  "orders": [
+  {
+   "id": "9d9d5e9df2db",
+   "title": "Недорогой одностраничный сайт.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528401/nedorogoy-odnostranichnyiy-sayt.html",
+   "date": "2026-11-07T22:54:31+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «одностраничн, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "b9d02b2dbb43",
+   "title": "Дизайн и верстка персонального глянцевого журнала",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528400/dizayn-i-verstka-personalnogo-glyantsevogo-jurnala.html",
+   "date": "2026-11-07T22:59:18+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "40bf3112aada",
+   "title": "Senior-архитектор monday.com для настройки бизнес-процессов компании (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528402/senior-arhitektor-mondaycom-dlya-nastroyki-biznes-protsessov-kompanii.html",
+   "date": "2026-11-07T23:04:29+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "a1cae5691d3a",
+   "title": "Создание рекламного видеоролика — 15–20 секунд",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528422/sozdanie-reklamnogo-videorolika--1520-sekund.html",
+   "date": "2026-11-07T22:55:42+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "36e48812e9a3",
    "title": "Сделать сайт",
