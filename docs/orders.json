@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-08T21:14:21.084761+00:00",
+ "updated": "2026-11-08T21:54:09.887267+00:00",
  "orders": [
+  {
+   "id": "f1a4156a3557",
+   "title": "Логотип на печать ООО",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528525/logotip-na-pechat-ooo.html",
+   "date": "2026-11-08T21:27:12+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "28422de572de",
+   "title": "Загрузить на Яндекс диск html документы и настроить открытие",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528512/zagruzit-na-yandeks-disk-html-dokumentyi-i-nastroit-otkryitie.html",
+   "date": "2026-11-08T21:25:18+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «html». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "53dc6dd9a19a",
+   "title": "Разработка лендинга для тренера (Бюджет: 15 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528517/razrabotka-lendinga-dlya-trenera.html",
+   "date": "2026-11-08T21:27:56+00:00",
+   "fit": 67,
+   "price": 14000,
+   "hours": 12,
+   "budget": "15 000 ₽",
+   "why": "Сайт / лендинг: совпало «лендинг». Бюджет клиента ~15 000 ₽"
+  },
+  {
+   "id": "57f78ba574ba",
+   "title": "Сделать дизайн сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528510/sdelat-dizayn-sayta.html",
+   "date": "2026-11-08T21:27:49+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "0cbb7a0f22e1",
+   "title": "Написание и размещение грамотных отзывов к товарам",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528511/napisanie-i-razmeschenie-gramotnyih-otzyivov-k-tovaram.html",
+   "date": "2026-11-08T21:25:59+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "09bbf85a15a2",
    "title": "cделать само продающий лендинг",
