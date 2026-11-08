@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-08T09:38:15.121933+00:00",
+ "updated": "2026-11-08T10:23:26.040718+00:00",
  "orders": [
+  {
+   "id": "7648fbbe1b49",
+   "title": "Разработка LALAGON Staking — Solana SOL, Testnet (этап 1) (Бюджет: 22 400 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528462/razrabotka-lalagon-staking--solana-sol-testnet-etap-1.html",
+   "date": "2026-11-08T10:09:21+00:00",
+   "fit": 57,
+   "price": 21500,
+   "hours": 8,
+   "budget": "22 400 ₽",
+   "why": "Парсер / автоматизация: совпало «интеграц». Бюджет клиента ~22 400 ₽"
+  },
   {
    "id": "525967d0b454",
    "title": "UI/UX-дизайнер для разработки криптовалютного веб-сервиса",
