@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-08T22:28:32.387178+00:00",
+ "updated": "2026-11-08T23:13:26.763517+00:00",
  "orders": [
+  {
+   "id": "204f696d136d",
+   "title": "Нужно доработать действующие и разработать новые Ларавел проекты",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528536/nujno-dorabotat-deystvuyuschie-i-razrabotat-novyie-laravel-proektyi-.html",
+   "date": "2026-11-08T22:31:30+00:00",
+   "fit": 57,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
+  },
   {
    "id": "f1a4156a3557",
    "title": "Логотип на печать ООО",
