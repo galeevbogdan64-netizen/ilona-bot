@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-08T14:19:41.135657+00:00",
+ "updated": "2026-11-08T14:58:52.974840+00:00",
  "orders": [
+  {
+   "id": "7742edbd6f06",
+   "title": "Автоматизация заказ-нарядов: n8n + OCR + ИИ + Google Sheets (Бюджет: 30 000 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528498/avtomatizatsiya-zakaz-naryadov-n8n--ocr--ii--google-sheets.html",
+   "date": "2026-11-08T14:37:26+00:00",
+   "fit": 97,
+   "price": 28500,
+   "hours": 8,
+   "budget": "30 000 ₽",
+   "why": "Парсер / автоматизация: совпало «api, google таблиц, n8n, автоматизац». Бюджет клиента ~30 000 ₽"
+  },
+  {
+   "id": "d6238a9341aa",
+   "title": "Разработка PWA для УК",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528496/razrabotka-pwa-dlya-uk.html",
+   "date": "2026-11-08T14:23:04+00:00",
+   "fit": 79,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «pwa, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "beb4c5c99b32",
+   "title": "обновлениe существующего сайта кондитерской студии",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528494/obnovlenie-suschestvuyuschego-sayta-konditerskoy-studii.html",
+   "date": "2026-11-08T14:08:44+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "b654fe377659",
+   "title": "Разработка кей-арта, маскота и бейджа для киноподкаста. Финал – ручная работа (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528480/razrabotka-key-arta-maskota-i-beydja-dlya-kinopodkasta-final--ruchnaya-rabota.html",
+   "date": "2026-11-08T12:45:18+00:00",
+   "fit": 57,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «айдентик». Бюджет не указан — цена по ставке, ~6 ч"
+  },
   {
    "id": "346f37d7b10f",
    "title": "Нужно разработать сайт + систему",
