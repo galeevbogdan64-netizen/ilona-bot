@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-08T10:23:26.040718+00:00",
+ "updated": "2026-11-08T11:16:31.433668+00:00",
  "orders": [
+  {
+   "id": "0e57bb17ae68",
+   "title": "Senior SEO/GEO: Pre-release сайта (EU/Global). Без РФ/СНГ",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528467/senior-seo-geo-pre-release-sayta-eu-global-bez-rf-sng.html",
+   "date": "2026-11-08T10:32:41+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "1307e33ca30b",
+   "title": "Baiysh.kg",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528469/baiyshkg.html",
+   "date": "2026-11-08T10:37:31+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "7648fbbe1b49",
    "title": "Разработка LALAGON Staking — Solana SOL, Testnet (этап 1) (Бюджет: 22 400 ₽)",
