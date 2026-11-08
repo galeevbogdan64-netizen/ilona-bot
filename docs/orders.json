@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-08T11:56:42.174707+00:00",
+ "updated": "2026-11-08T12:39:29.498776+00:00",
  "orders": [
+  {
+   "id": "346f37d7b10f",
+   "title": "Нужно разработать сайт + систему",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528469/nujno-razrabotat-sayt--sistemu.html",
+   "date": "2026-11-08T10:37:31+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "5c6acf185fc9",
+   "title": "Разработать инфографику для раздвижных окон",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528473/razrabotat-infografiku-dlya-razdvijnyih-okon.html",
+   "date": "2026-11-08T11:28:31+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "0e57bb17ae68",
    "title": "Senior SEO/GEO: Pre-release сайта (EU/Global). Без РФ/СНГ",
