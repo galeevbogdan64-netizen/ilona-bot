@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-08T05:27:11.910177+00:00",
+ "updated": "2026-11-08T06:27:26.082639+00:00",
  "orders": [
+  {
+   "id": "7639397700cf",
+   "title": "Перенести сайт на другой хостинг и настроить, чтобы сайт работал",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528441/perenesti-sayt-na-drugoy-hosting-i-nastroit-chtobyi-sayt-rabotal.html",
+   "date": "2026-11-08T06:15:01+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "18d8e00e4265",
+   "title": "Переработать UI дизайн мобильной игры.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528440/pererabotat-ui-dizayn-mobilnoy-igryi.html",
+   "date": "2026-11-08T06:14:07+00:00",
+   "fit": 67,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
+  },
   {
    "id": "ec56e8538beb",
    "title": "Вверстать мелкие элементы в уже готовый сайт (Бюджет: 110 ₽)",
