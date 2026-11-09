@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T15:14:00.116101+00:00",
+ "updated": "2026-11-09T16:22:16.666450+00:00",
  "orders": [
+  {
+   "id": "9b1aa39adb50",
+   "title": "Регулярный парсинг маркетплейса (233 SKU) — обновление каждый понедельник",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528630/regulyarnyiy-parsing-marketpleysa-233-sku--obnovlenie-kajdyiy-ponedelnik.html",
+   "date": "2026-11-09T15:56:12+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "581b5fd9ae4a",
+   "title": "Интеграция: заказы из Авито и ВК в Telegram",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528632/integratsiya-zakazyi-iz-avito-i-vk-v-telegram.html",
+   "date": "2026-11-09T16:11:44+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «интеграц». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "2eb4445c934f",
    "title": "Фирменный паттерн, оклейка Mercedes Sprinter и бланк + файлы для типографии (Бюджет: 10 000 ₽)",
