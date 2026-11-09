@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-09T11:48:40.656573+00:00",
+ "updated": "2026-11-09T12:55:47.994993+00:00",
  "orders": [
+  {
+   "id": "17301a4a1fd6",
+   "title": "Доработка и редизайн интернет-магазина производителя (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528596/dorabotka-i-redizayn-internet-magazina-proizvoditelya.html",
+   "date": "2026-11-09T11:52:07+00:00",
+   "fit": 91,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «tilda, интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "3a863fcf245c",
+   "title": "Контент-менеджер (B2B, инжиниринг) / Наполнение портфолио сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528608/-kontent-menedjer-b2b-injiniring---napolnenie-portfolio-sayta-.html",
+   "date": "2026-11-09T12:45:26+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "4b00415b8ce6",
+   "title": "Продвижение сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528603/prodvijenie-sayta-.html",
+   "date": "2026-11-09T12:21:28+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "b107de24f64d",
+   "title": "Привет! Нужно перевести этот растровый логотип в вектор (Illustrator или CorelDraw) (Бюджет: 550 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528598/privet-nujno-perevesti-etot-rastrovyiy-logotip-v-vektor-illustrator-ili-coreldraw.html",
+   "date": "2026-11-09T12:17:00+00:00",
+   "fit": 64,
+   "price": 3000,
+   "hours": 6,
+   "budget": "550 ₽",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~550 ₽"
+  },
+  {
+   "id": "aaa6a7b1a926",
+   "title": "Здравствуйте! Ищу исполнителя для комплексной разработки проекта «под ключ».",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528606/zdravstvuyte-ischu-ispolnitelya-dlya-kompleksnoy-razrabotki-proekta-pod-klyuch-.html",
+   "date": "2026-11-09T12:36:22+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "2b18134267ed",
    "title": "Проектирование интерфейса и дизайна нового сервиса",
