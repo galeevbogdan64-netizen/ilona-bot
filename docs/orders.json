@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T17:34:14.621628+00:00",
+ "updated": "2026-11-09T18:26:19.547362+00:00",
  "orders": [
+  {
+   "id": "0895193a980d",
+   "title": "Разработка Telegram-бота с умными ответами и приёмом заявок",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528645/razrabotka-telegram-bota-s-umnyimi-otvetami-i-primom-zayavok.html",
+   "date": "2026-11-09T17:36:04+00:00",
+   "fit": 79,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «aiogram, telegram-бот». Бюджет не указан — цена по ставке, ~14 ч"
+  },
+  {
+   "id": "3f0ebbeb0723",
+   "title": "Нужен омниканальный чат-бот для бронирования отеля с интеграциями amoCRM и MeHotel",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528646/nujen-omnikanalnyiy-chat-bot-dlya-bronirovaniya-otelya-s-integratsiyami-amocrm-i-mehotel.html",
+   "date": "2026-11-09T17:36:35+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "282c9fbab927",
    "title": "Развернуть сайт WORDPRESS на хостинге/",
