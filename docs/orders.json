@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-09T10:48:43.105640+00:00",
+ "updated": "2026-11-09T11:48:40.656573+00:00",
  "orders": [
+  {
+   "id": "2b18134267ed",
+   "title": "Проектирование интерфейса и дизайна нового сервиса",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528583/proektirovanie-interfeysa-i-dizayna-novogo-servisa.html",
+   "date": "2026-11-09T11:05:27+00:00",
+   "fit": 69,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «android, ios». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "2b613b9e1d09",
+   "title": "Разработка 2х томов стадии Р по электроснабжению и автоматизации",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528586/razrabotka-2h-tomov-stadii-r-po-elektrosnabjeniyu-i-avtomatizatsii.html",
+   "date": "2026-11-09T11:00:04+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "8587bb1aee78",
    "title": "Разработка кастомной CRM и мобильного приложения для сервисного центра с интеграцией ИИ (OpenAI API) (для всех)",
