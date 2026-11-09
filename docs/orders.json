@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-09T12:55:47.994993+00:00",
+ "updated": "2026-11-09T14:12:56.264032+00:00",
  "orders": [
+  {
+   "id": "9c0d5f22c4e7",
+   "title": "Техническое задание на разработку логотипа / фирменного элемента",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528613/tehnicheskoe-zadanie-na-razrabotku-logotipa---firmennogo-elementa.html",
+   "date": "2026-11-09T13:20:47+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "eef373ff2703",
+   "title": "Нужен логотип для ТК. Занимаемся Домашними переездами. (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528609/nujen-logotip-dlya-tk-zanimaemsya-domashnimi-pereezdami.html",
+   "date": "2026-11-09T13:03:01+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "f14e27599382",
+   "title": "Дизайн главной стр. сайта - производство призов и наград",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528614/dizayn-glavnoy-str-sayta----proizvodstvo-prizov-i-nagrad.html",
+   "date": "2026-11-09T13:27:41+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "17301a4a1fd6",
    "title": "Доработка и редизайн интернет-магазина производителя (для всех)",
