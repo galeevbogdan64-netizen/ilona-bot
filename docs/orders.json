@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-09T08:40:49.248062+00:00",
+ "updated": "2026-11-09T09:52:03.427582+00:00",
  "orders": [
+  {
+   "id": "8587bb1aee78",
+   "title": "Разработка кастомной CRM и мобильного приложения для сервисного центра с интеграцией ИИ (OpenAI API) (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528574/razrabotka-kastomnoy-crm-i-mobilnogo-prilojeniya-dlya-servisnogo-tsentra-s-integratsiey-ii-openai-api.html",
+   "date": "2026-11-09T09:46:07+00:00",
+   "fit": 97,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api, python, автоматизац, интеграц». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "09d9c1836410",
+   "title": "Восстановить сайт, размещенный на бегет",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528553/vosstanovit-sayt-razmeschennyiy-na-beget-.html",
+   "date": "2026-11-09T07:26:58+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «вордпресс, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "d7165c70c063",
+   "title": "Разработка Telegram-бота для управления автопарком (MVP)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528575/razrabotka-telegram-bota-dlya-upravleniya-avtoparkom-mvp.html",
+   "date": "2026-11-09T09:48:51+00:00",
+   "fit": 67,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «telegram-бот». Бюджет не указан — цена по ставке, ~14 ч"
+  },
+  {
+   "id": "439f3951fc60",
+   "title": "Верстка материала на Readymag либо shortland",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528551/verstka-materiala-na-readymag-libo-shortland.html",
+   "date": "2026-11-09T07:02:19+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "816d78061882",
+   "title": "Сделать ИИ Агента",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528571/sdelat-ii-agenta.html",
+   "date": "2026-11-09T09:35:25+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «n8n». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "6396a4c88848",
+   "title": "Подбор персонала (рекрутер) на фрилансе (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528554/podbor-personala-rekruter-na-frilanse.html",
+   "date": "2026-11-09T07:38:19+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «скрипт». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "802d845542a2",
+   "title": "Продвижение готового сервиса (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528540/prodvijenie-gotovogo-servisa.html",
+   "date": "2026-11-09T06:06:10+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "5c2a90b83043",
    "title": "Продвижение vpn сервиса (для всех)",
