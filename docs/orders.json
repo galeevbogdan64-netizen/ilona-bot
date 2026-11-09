@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-09T16:22:16.666450+00:00",
+ "updated": "2026-11-09T17:34:14.621628+00:00",
  "orders": [
+  {
+   "id": "282c9fbab927",
+   "title": "Развернуть сайт WORDPRESS на хостинге/",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528636/razvernut-sayt-wordpress-na-hostinge-.html",
+   "date": "2026-11-09T16:40:18+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "2922c444e306",
+   "title": "Разработка сайта сервиса выкупа из США (дизайн готов)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528640/razrabotka-sayta-servisa-vyikupa-iz-ssha-dizayn-gotov.html",
+   "date": "2026-11-09T16:41:04+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "18f503a0358a",
+   "title": "Сделать классное фото для размещения на сайт",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528635/sdelat-klassnoe-foto-dlya-razmescheniya-na-sayt.html",
+   "date": "2026-11-09T16:24:31+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "9b1aa39adb50",
    "title": "Регулярный парсинг маркетплейса (233 SKU) — обновление каждый понедельник",
