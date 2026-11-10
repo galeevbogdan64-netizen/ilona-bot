@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-10T10:12:47.623181+00:00",
+ "updated": "2026-11-10T11:08:22.923108+00:00",
  "orders": [
+  {
+   "id": "4d20a3c7bfb3",
+   "title": "Доработка фирменного стиля и брендбука",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528733/dorabotka-firmennogo-stilya-i-brendbuka.html",
+   "date": "2026-11-10T10:55:11+00:00",
+   "fit": 91,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «брендбук, лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "f45447c7f751",
+   "title": "Тестирование Python LLM-парсера и обработки данных (Бюджет: 5 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528727/testirovanie-python-llm-parsera-i-obrabotki-dannyih.html",
+   "date": "2026-11-10T10:56:39+00:00",
+   "fit": 89,
+   "price": 5000,
+   "hours": 8,
+   "budget": "5 000 ₽",
+   "why": "Парсер / автоматизация: совпало «python, парсер». Бюджет клиента ~5 000 ₽"
+  },
+  {
+   "id": "5a7f46c6b89e",
+   "title": "Тестирование Telegram-бота на Python (Backend, API) (Бюджет: 5 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528728/testirovanie-telegram-bota-na-python-backend-api.html",
+   "date": "2026-11-10T10:56:28+00:00",
+   "fit": 89,
+   "price": 5000,
+   "hours": 8,
+   "budget": "5 000 ₽",
+   "why": "Парсер / автоматизация: совпало «api, python». Бюджет клиента ~5 000 ₽"
+  },
+  {
+   "id": "c58c2fb72aa9",
+   "title": "нужен бот-Авто брокер для фарпоста. (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5355552/nujen-bot-avto-broker-dlya-farposta.html",
+   "date": "2026-11-10T02:27:30+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "42fb42663d3a",
    "title": "Доработка готовой векторной раскройки упаковки.",
