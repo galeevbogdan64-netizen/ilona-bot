@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-10T13:27:09.050926+00:00",
+ "updated": "2026-11-10T14:30:16.620682+00:00",
  "orders": [
+  {
+   "id": "706077432aba",
+   "title": "Разработка бота для автоматизации игры «Аватария»",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528755/razrabotka-bota-dlya-avtomatizatsii-igryi-avatariya.html",
+   "date": "2026-11-10T13:33:35+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "62dd4eb64233",
+   "title": "независимый технический аудит ИИ-системы (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528764/nezavisimyiy-tehnicheskiy-audit-ii-sistemyi.html",
+   "date": "2026-11-10T14:17:19+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "26027f9a0265",
+   "title": "Дизайн баннера и popup-сообщения в Figma (Бюджет: 5 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528757/dizayn-bannera-i-popup-soobscheniya-v-figma.html",
+   "date": "2026-11-10T13:52:28+00:00",
+   "fit": 57,
+   "price": 5000,
+   "hours": 12,
+   "budget": "5 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~5 000 ₽"
+  },
   {
    "id": "85376ec0ff61",
    "title": "Разработка Telegram бота с искустыенным интелектом ( AI - парсер )",
