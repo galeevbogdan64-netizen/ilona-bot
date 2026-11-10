@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-10T06:53:26.748572+00:00",
+ "updated": "2026-11-10T08:05:34.912372+00:00",
  "orders": [
+  {
+   "id": "b1d12f3e44b1",
+   "title": "Дизайн сайта парка игровых реальностей",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528701/dizayn-sayta-parka-igrovyih-realnostey.html",
+   "date": "2026-11-10T07:52:21+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "869f99058cf2",
+   "title": "Верстка буклета А5 4 полосы",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528698/verstka-bukleta-a5-4-polosyi.html",
+   "date": "2026-11-10T07:15:51+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "04f8b96ae7ce",
+   "title": "Проксирование веб-сайта через Яндекс CDN для его доступности в условиях белых списков",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528695/proksirovanie-veb-sayta-cherez-yandeks-cdn-dlya-ego-dostupnosti-v-usloviyah-belyih-spiskov.html",
+   "date": "2026-11-10T06:57:40+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "0fad09efb86b",
    "title": "Доработка Python-бота (SAMP эмулятор) для Black Russia: авто-капча, ползунок и навигация.",
