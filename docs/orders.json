@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-10T12:06:14.794782+00:00",
+ "updated": "2026-11-10T13:27:09.050926+00:00",
  "orders": [
+  {
+   "id": "85376ec0ff61",
+   "title": "Разработка Telegram бота с искустыенным интелектом ( AI - парсер )",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528747/razrabotka-telegram-bota-s-iskustyiennyim-intelektom--ai---parser-.html",
+   "date": "2026-11-10T12:23:40+00:00",
+   "fit": 97,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api, n8n, python, парсер». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "7b3fa67dc3eb",
+   "title": "On-Page SEO/GEO для европейского сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528745/on-page-seo-geo-dlya-evropeyskogo-sayta.html",
+   "date": "2026-11-10T12:07:48+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "15508e9ca497",
+   "title": "нужен бот (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5355552/nujen-bot.html",
+   "date": "2026-11-10T02:27:30+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "ad6d502198ef",
+   "title": "Python-разработчик (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528749/python-razrabotchik.html",
+   "date": "2026-11-10T12:51:02+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «html». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "5733bea604fc",
    "title": "сверстать сайт, вордпрес (Бюджет: 18 000 ₽)",
