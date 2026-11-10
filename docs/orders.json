@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-10T11:08:22.923108+00:00",
+ "updated": "2026-11-10T12:06:14.794782+00:00",
  "orders": [
+  {
+   "id": "5733bea604fc",
+   "title": "сверстать сайт, вордпрес (Бюджет: 18 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528743/sverstat-sayt-vordpres.html",
+   "date": "2026-11-10T11:59:12+00:00",
+   "fit": 79,
+   "price": 17000,
+   "hours": 12,
+   "budget": "18 000 ₽",
+   "why": "Сайт / лендинг: совпало «верстк, сайт». Бюджет клиента ~18 000 ₽"
+  },
+  {
+   "id": "be0d060bea64",
+   "title": "Создание сайта для интернет магазина",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528737/sozdanie-sayta-dlya-internet-magazina.html",
+   "date": "2026-11-10T11:32:20+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "9bace6397f1c",
+   "title": "Платформа или приложение",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528711/platforma-ili-prilojenie.html",
+   "date": "2026-11-10T08:34:11+00:00",
+   "fit": 67,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "8d51241d0d21",
+   "title": "SEO продвижению Сайта в ИИ-сервисах (GEO/AEO) подготовить подробное техническое ТЗ для программиста",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528740/-seo-prodvijeniyu-sayta-v-ii-servisah-geo-aeo-podgotovit-podrobnoe-tehnicheskoe-tz-dlya-programmista.html",
+   "date": "2026-11-10T11:52:48+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "fc5360326090",
+   "title": "нужен бот-Авто брокер. (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5355552/nujen-bot-avto-broker.html",
+   "date": "2026-11-10T02:27:30+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "d44850345dd9",
+   "title": "Записать видео-отзыв о языковом приложении",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528738/zapisat-video-otzyiv-o-yazyikovom-prilojenii.html",
+   "date": "2026-11-10T11:42:38+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «лендинг». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "4ab6575fc144",
+   "title": "Сделать уменьшенный магазин-витрину",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528735/sdelat-umenshennyiy-magazin-vitrinu.html",
+   "date": "2026-11-10T11:08:27+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «woocommerce». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "4d20a3c7bfb3",
    "title": "Доработка фирменного стиля и брендбука",
