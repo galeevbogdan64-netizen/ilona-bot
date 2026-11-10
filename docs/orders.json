@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-10T08:05:34.912372+00:00",
+ "updated": "2026-11-10T09:10:41.701578+00:00",
  "orders": [
+  {
+   "id": "42fb42663d3a",
+   "title": "Доработка готовой векторной раскройки упаковки.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528713/dorabotka-gotovoy-vektornoy-raskroyki-upakovki-.html",
+   "date": "2026-11-10T08:59:59+00:00",
+   "fit": 69,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "07815e0efe95",
+   "title": "Платформа или приложение",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528711/platforma-ili-prilojenie-.html",
+   "date": "2026-11-10T08:34:11+00:00",
+   "fit": 67,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "5b1a8aaffdf1",
+   "title": "Ui мобильного приложения, интерфейс в фигме (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528716/ui-mobilnogo-prilojeniya-interfeys-v-figme.html",
+   "date": "2026-11-10T09:03:31+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "b1d12f3e44b1",
    "title": "Дизайн сайта парка игровых реальностей",
