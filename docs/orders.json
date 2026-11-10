@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-10T02:43:01.978698+00:00",
+ "updated": "2026-11-10T03:41:57.142040+00:00",
  "orders": [
+  {
+   "id": "0fad09efb86b",
+   "title": "Доработка Python-бота (SAMP эмулятор) для Black Russia: авто-капча, ползунок и навигация.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528671/dorabotka-python-bota-samp-emulyator-dlya-black-russia-avto-kapcha-polzunok-i-navigatsiya.html",
+   "date": "2026-11-10T03:12:00+00:00",
+   "fit": 79,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «python, скрипт». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "2ff3929f6c73",
+   "title": "AI-генерация музыкальных видео и авто публикация в TikTok / Shorts / Rutube (Бюджет: 25 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528677/ai-generatsiya-muzyikalnyih-video-i-avto-publikatsiya-v-tiktok---shorts---rutube.html",
+   "date": "2026-11-10T03:10:01+00:00",
+   "fit": 69,
+   "price": 24000,
+   "hours": 8,
+   "budget": "25 000 ₽",
+   "why": "Парсер / автоматизация: совпало «api, автоматизац». Бюджет клиента ~25 000 ₽"
+  },
+  {
+   "id": "742b2681b712",
+   "title": "Разработка интернет-магазина с Telegram-ботом, AI-ассистентом и умной системой рекомендаций товаров",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528684/razrabotka-internet-magazina-s-telegram-botom-ai-assistentom-i-umnoy-sistemoy-rekomendatsiy-tovarov.html",
+   "date": "2026-11-10T03:12:11+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "4a82484ca4c9",
+   "title": "Нужна помощь в поиске работы — финансы, IT, автоматизация",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528667/nujna-pomosch-v-poiske-rabotyi--finansyi-it-avtomatizatsiya.html",
+   "date": "2026-11-10T03:09:28+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "e5286f1fdc19",
+   "title": "Нужно протестировать постоянно сайты на Ларавел что на доработке",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528675/nujno-protestirovat-postoyanno-saytyi-na-laravel-chto-na-dorabotke.html",
+   "date": "2026-11-10T03:08:49+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "d36d2ff37e13",
+   "title": "Добавить 200 000 и более региональных менеджеров с 195 стран на наш сайт (Бюджет: 950 950 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528678/dobavit-200-000-i-bolee-regionalnyih-menedjerov-s-195-stran-na-nash-sayt.html",
+   "date": "2026-11-10T03:07:49+00:00",
+   "fit": 67,
+   "price": 903500,
+   "hours": 12,
+   "budget": "950 950 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~950 950 ₽"
+  },
+  {
+   "id": "2f1ece6b2e36",
+   "title": "нейминг для бренда одежды (Бюджет: 3 000 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528682/neyming-dlya-brenda-odejdyi.html",
+   "date": "2026-11-10T03:01:10+00:00",
+   "fit": 67,
+   "price": 3000,
+   "hours": 6,
+   "budget": "3 000 ₽",
+   "why": "Логотип / фирменный стиль: совпало «нейминг». Бюджет клиента ~3 000 ₽"
+  },
   {
    "id": "a51f2b2eb9f7",
    "title": "Нужно разработать дизайн сайта на Тильде из 12 блоков",
