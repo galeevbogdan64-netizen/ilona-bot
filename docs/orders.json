@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-11T19:21:43.243303+00:00",
+ "updated": "2026-11-11T21:04:24.865964+00:00",
  "orders": [
+  {
+   "id": "0821dfe05c97",
+   "title": "Сделать одностраничный сайт услуг по ремонту бытовой и цифровой техники для приема заявок",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528919/sdelat-odnostranichnyiy-sayt-uslug-po-remontu-byitovoy-i-tsifrovoy-tehniki-dlya-priema-zayavok.html",
+   "date": "2026-11-11T20:51:22+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «одностраничн, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "cbe6b9d39ea9",
+   "title": "Автоматизация Wb и Ozon с ИИ (готовое или разработка)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528905/avtomatizatsiya-wb-i-ozon-s-ii-gotovoe-ili-razrabotka-.html",
+   "date": "2026-11-11T18:49:10+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "a7ceccbec5ea",
    "title": "Разработка Telegram Mini App для обработки фото и видео с пресетами под ключ (для всех)",
