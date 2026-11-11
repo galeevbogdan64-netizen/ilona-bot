@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-11T10:51:17.863180+00:00",
+ "updated": "2026-11-11T11:47:30.058951+00:00",
  "orders": [
+  {
+   "id": "e33aead72324",
+   "title": "WordPress-разработчик: воссоздать 2 сайта жилых комплексов (каталог квартир, формы, карта)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528869/wordpress-razrabotchik-vossozdat-2-sayta-jilyih-kompleksov-katalog-kvartir-formyi-karta.html",
+   "date": "2026-11-11T10:40:48+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "462b04a4f7e6",
+   "title": "Разработка схемы и трассировка 4-слойной платы под ESP32-P4 (EasyEDA, Gerber + BOM + CPL для JLCPCB)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528865/razrabotka-shemyi-i-trassirovka-4-sloynoy-platyi-pod-esp32-p4-easyeda-gerber--bom--cpl-dlya-jlcpcb.html",
+   "date": "2026-11-11T10:28:24+00:00",
+   "fit": 57,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
+  },
   {
    "id": "bd623292df14",
    "title": "Создать бота для подбора оборудования из каталога по ТЗ и бронирования сделок на дилерском сайте",
