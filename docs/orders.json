@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-11T04:34:36.951662+00:00",
+ "updated": "2026-11-11T05:34:06.742827+00:00",
  "orders": [
+  {
+   "id": "b634a3ab33cb",
+   "title": "Приложение (каталог продукции) для врачей",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528798/prilojenie-katalog-produktsii-dlya-vrachey.html",
+   "date": "2026-11-11T05:02:26+00:00",
+   "fit": 91,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «ios, pwa, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "b99c0cbb2ac7",
+   "title": "Сделать одностраничный сайт в Тильде",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528814/sdelat-odnostranichnyiy-sayt-v-tilde.html",
+   "date": "2026-11-11T05:03:23+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «одностраничн, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "0b1bb7712c1a",
+   "title": "Аккуратно заменить шрифт на сайте (Бюджет: 200 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528811/akkuratno-zamenit-shrift-na-sayte-.html",
+   "date": "2026-11-11T05:02:42+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "12bc11362407",
+   "title": "Разработка инфографики для раздвижных окон Слайдорс",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528797/razrabotka-infografiki-dlya-razdvijnyih-okon-slaydors.html",
+   "date": "2026-11-11T05:00:51+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "2ce30c6aff93",
    "title": "Разработка логотипа-знака (буква G в щите) + макет шильда 100х50 мм под лазерную гравировку».",
