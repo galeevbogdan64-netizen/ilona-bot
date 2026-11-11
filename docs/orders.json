@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-11T06:34:27.262010+00:00",
+ "updated": "2026-11-11T07:52:57.754680+00:00",
  "orders": [
+  {
+   "id": "1dfbdbef6f0c",
+   "title": "Сделать 4 баннера для главной страницы сайта (Бюджет: 8 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528825/sdelat-4-bannera-dlya-glavnoy-stranitsyi-sayta.html",
+   "date": "2026-11-11T06:53:17+00:00",
+   "fit": 67,
+   "price": 7500,
+   "hours": 12,
+   "budget": "8 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~8 000 ₽"
+  },
+  {
+   "id": "e6348f883b66",
+   "title": "Лэндинг на InSales",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528827/lending-na-insales.html",
+   "date": "2026-11-11T07:29:04+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «лендинг». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "f9f09142a1e8",
+   "title": "Посевы в Telegram и MAX для B2B-сервиса: пилот с маркировкой erid",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528823/posevyi-v-telegram-i-max-dlya-b2b-servisa-pilot-s-markirovkoy-erid.html",
+   "date": "2026-11-11T06:40:15+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "b634a3ab33cb",
    "title": "Приложение (каталог продукции) для врачей",
