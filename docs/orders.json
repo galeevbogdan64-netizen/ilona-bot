@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-11T08:48:17.181329+00:00",
+ "updated": "2026-11-11T09:50:23.913494+00:00",
  "orders": [
+  {
+   "id": "bd623292df14",
+   "title": "Создать бота для подбора оборудования из каталога по ТЗ и бронирования сделок на дилерском сайте",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528854/sozdat-bota-dlya-podbora-oborudovaniya-iz-kataloga-po-tz-i-bronirovaniya-sdelok-na-dilerskom-sayte.html",
+   "date": "2026-11-11T09:39:19+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "7db7ae338c74",
+   "title": "Выбор системы налогообложения для ООО — коттеджного девелопера (загородная недвижимость, МО)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528855/vyibor-sistemyi-nalogooblojeniya-dlya-ooo--kottedjnogo-developera-zagorodnaya-nedvijimost-mo.html",
+   "date": "2026-11-11T09:37:10+00:00",
+   "fit": 67,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого». Бюджет не указан — цена по ставке, ~6 ч"
+  },
   {
    "id": "0c2bf0bfcbc0",
    "title": "Требуется SEO-специалист для продвижения B2B-сайта от 6 месяцев (для всех)",
