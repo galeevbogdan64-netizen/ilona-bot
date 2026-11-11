@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-11T12:53:02.582695+00:00",
+ "updated": "2026-11-11T14:07:39.565305+00:00",
  "orders": [
+  {
+   "id": "a7ceccbec5ea",
+   "title": "Разработка Telegram Mini App для обработки фото и видео с пресетами под ключ (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528888/razrabotka-telegram-mini-app-dlya-obrabotki-foto-i-video-s-presetami-pod-klyuch.html",
+   "date": "2026-11-11T13:15:42+00:00",
+   "fit": 67,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «mini app». Бюджет не указан — цена по ставке, ~14 ч"
+  },
   {
    "id": "7b7c34f5f860",
    "title": "Нужен лендинг под Web3 продукт (недорого) (Бюджет: 20 000 ₽)",
