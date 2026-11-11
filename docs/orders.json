@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-11T11:47:30.058951+00:00",
+ "updated": "2026-11-11T12:53:02.582695+00:00",
  "orders": [
+  {
+   "id": "7b7c34f5f860",
+   "title": "Нужен лендинг под Web3 продукт (недорого) (Бюджет: 20 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528875/nujen-lending-pod-web3-produkt-nedorogo.html",
+   "date": "2026-11-11T12:29:11+00:00",
+   "fit": 97,
+   "price": 19000,
+   "hours": 12,
+   "budget": "20 000 ₽",
+   "why": "Сайт / лендинг: совпало «верстк, лендинг, одностраничн, сайт». Бюджет клиента ~20 000 ₽"
+  },
+  {
+   "id": "6d1f91f0c5c9",
+   "title": "Редизайн сайта на WordPress + базовая SEO-оптимизация",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528880/redizayn-sayta-na-wordpress--bazovaya-seo-optimizatsiya.html",
+   "date": "2026-11-11T12:47:35+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "029705b457c2",
+   "title": "сайт под ключ",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528879/sayt-pod-klyuch.html",
+   "date": "2026-11-11T12:44:23+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "e33aead72324",
    "title": "WordPress-разработчик: воссоздать 2 сайта жилых комплексов (каталог квартир, формы, карта)",
