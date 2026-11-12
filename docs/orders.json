@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T13:52:04.499806+00:00",
+ "updated": "2026-11-12T14:48:16.912370+00:00",
  "orders": [
+  {
+   "id": "6a490e4fb5be",
+   "title": "Техническое задание на разработку визитки для автосервиса",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529001/tehnicheskoe-zadanie-na-razrabotku-vizitki-dlya-avtoservisa.html",
+   "date": "2026-11-12T14:05:26+00:00",
+   "fit": 57,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
+  },
   {
    "id": "68d3d8976ab1",
    "title": "Разработка приложения для ПК, на базе GStreamer",
