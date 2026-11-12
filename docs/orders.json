@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-12T08:15:02.953828+00:00",
+ "updated": "2026-11-12T09:20:25.354834+00:00",
  "orders": [
+  {
+   "id": "30edb70fc9d1",
+   "title": "Закрытое тестирование 4 Android-приложений на 12 устройствах, 14 дней (Бюджет: 5 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528963/zakryitoe-testirovanie-4-android-prilojeniy-na-12-ustroystvah-14-dney.html",
+   "date": "2026-11-12T08:43:19+00:00",
+   "fit": 67,
+   "price": 5000,
+   "hours": 40,
+   "budget": "5 000 ₽",
+   "why": "Приложение: совпало «android». Бюджет клиента ~5 000 ₽"
+  },
+  {
+   "id": "0516160a6230",
+   "title": "Создание интернет магазина",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5528967/sozdanie-internet-magazina.html",
+   "date": "2026-11-12T09:05:53+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "f92e97d4e927",
    "title": "Обновление фирменного стиля (этап 1) (Бюджет: 177 726 ₽)",
