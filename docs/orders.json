@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T16:53:02.406050+00:00",
+ "updated": "2026-11-12T17:45:23.745857+00:00",
  "orders": [
+  {
+   "id": "d7917756c59f",
+   "title": "PHP-разработчик (Laravel) / Backend-разработчик — интеграции и парсеры",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529023/php-razrabotchik-laravel---backend-razrabotchik--integratsii-i-parseryi.html",
+   "date": "2026-11-12T17:34:52+00:00",
+   "fit": 89,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «интеграц, парсер». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "13107735558c",
    "title": "Ищем Devops инженера для создания тестового стенда виртуальных Android-устройств (для всех)",
