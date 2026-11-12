@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T19:46:36.436629+00:00",
+ "updated": "2026-11-12T20:41:45.251619+00:00",
  "orders": [
+  {
+   "id": "436a495296db",
+   "title": "Исследование рекуррентных Transformer-энкодеров для текстовых эмбеддингов (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529046/issledovanie-rekurrentnyih-transformer-enkoderov-dlya-tekstovyih-embeddingov.html",
+   "date": "2026-11-12T20:34:13+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «python». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "ac5c282863f8",
    "title": "Сео продвижение",
