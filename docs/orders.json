@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-13T08:51:50.486327+00:00",
+ "updated": "2026-11-13T09:51:18.825703+00:00",
  "orders": [
+  {
+   "id": "874aaa7be18b",
+   "title": "Проверка качества Python-сервиса интеграции с Telegram (Бюджет: 5 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529078/proverka-kachestva-python-servisa-integratsii-s-telegram.html",
+   "date": "2026-11-13T08:17:31+00:00",
+   "fit": 89,
+   "price": 5000,
+   "hours": 8,
+   "budget": "5 000 ₽",
+   "why": "Парсер / автоматизация: совпало «python, интеграц». Бюджет клиента ~5 000 ₽"
+  },
+  {
+   "id": "bf1788f37677",
+   "title": "Разработка логотипа для нового федерального бренда",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529086/razrabotka-logotipa-dlya-novogo-federalnogo-brenda-.html",
+   "date": "2026-11-13T09:18:35+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "306ae312cbd7",
+   "title": "Корректировка шаблона WordPress",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529083/korrektirovka-shablona-wordpress.html",
+   "date": "2026-11-13T08:52:43+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "6a3559a40651",
+   "title": "Создание сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529082/sozdanie-sayta.html",
+   "date": "2026-11-13T08:42:14+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "e1ff2a4e538b",
+   "title": "Отрисовка макета дизайна сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529081/otrisovka-maketa-dizayna-sayta-.html",
+   "date": "2026-11-13T08:26:12+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "0572e78cc438",
    "title": "Контент-завод на ИИ/автоматизации",
@@ -2340,66 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "01e401693242",
-   "title": "верстка и счетчик метрики (Бюджет: 3 500 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528077/verstka-i-schetchik-metriki-.html",
-   "date": "2026-11-05T07:10:50+00:00",
-   "fit": 67,
-   "price": 3500,
-   "hours": 12,
-   "budget": "3 500 ₽",
-   "why": "Сайт / лендинг: совпало «верстк». Бюджет клиента ~3 500 ₽"
-  },
-  {
-   "id": "a60982976ef3",
-   "title": "Написать SEO-тексты на английском для сайта клининговой компании в США",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528058/napisat-seo-tekstyi-na-angliyskom-dlya-sayta-kliningovoy-kompanii-v-ssha.html",
-   "date": "2026-11-05T04:43:15+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "1f86e784cc8e",
-   "title": "Ищу MLOps/DevOps: локальная LLM-станция (Dify + Ollama, Windows 11 + WSL 2, без облака) (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528137/ischu-mlops-devops-lokalnaya-llm-stantsiya-dify--ollama-windows-11--wsl-2-bez-oblaka.html",
-   "date": "2026-11-05T12:46:41+00:00",
-   "fit": 57,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «скрипт». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "cdb182d8642a",
-   "title": "Собрать e-mail по реестру",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528117/sobrat-e-mail-po-reestru-.html",
-   "date": "2026-11-05T10:46:49+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "ddac7c5cb97d",
-   "title": "Сбор информации",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528005/sbor-informatsii.html",
-   "date": "2026-11-04T13:24:01+00:00",
-   "fit": 57,
-   "price": 475000,
-   "hours": 12,
-   "budget": "500 000 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~500 000 ₽"
   }
  ]
 }
