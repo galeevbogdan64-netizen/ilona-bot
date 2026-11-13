@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-13T05:37:59.586182+00:00",
+ "updated": "2026-11-13T06:39:06.596915+00:00",
  "orders": [
+  {
+   "id": "00f43ff210ee",
+   "title": "Разработка коммерческого сетевого сервиса (Приложение + Сервер + Админ-панель) под ключ (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529062/razrabotka-kommercheskogo-setevogo-servisa-prilojenie--server--admin-panel-pod-klyuch.html",
+   "date": "2026-11-13T06:07:56+00:00",
+   "fit": 97,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «android, flutter, ios, react native». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "8db814051cbe",
+   "title": "Создание логотипа.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529061/sozdanie-logotipa.html",
+   "date": "2026-11-13T06:06:27+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "02213fd514a6",
+   "title": "Парсинг групп телеграм.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529051/parsing-grupp-telegram.html",
+   "date": "2026-11-13T06:08:28+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "f8f919c37810",
+   "title": "Создать простой проект в Figma (Бюджет: 5 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529040/sozdat-prostoy-proekt-v-figma.html",
+   "date": "2026-11-13T06:13:24+00:00",
+   "fit": 57,
+   "price": 5000,
+   "hours": 40,
+   "budget": "5 000 ₽",
+   "why": "Приложение: совпало «приложение». Бюджет клиента ~5 000 ₽"
+  },
+  {
+   "id": "366846f4d0d0",
+   "title": "Запись голоса на русском языке — 138 коротких фраз",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529055/zapis-golosa-na-russkom-yazyike--138-korotkih-fraz.html",
+   "date": "2026-11-13T06:04:56+00:00",
+   "fit": 57,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
   {
    "id": "5f52aeaaa17b",
    "title": "Редизайн сайта: БАДы",
@@ -2340,18 +2400,6 @@
    "hours": 12,
    "budget": "3 000 ₽",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~3 000 ₽"
-  },
-  {
-   "id": "2e2c08c5f9b6",
-   "title": "Нужен кадастровый инженер (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5527967/nujen-kadastrovyiy-injener.html",
-   "date": "2026-11-05T08:10:01+00:00",
-   "fit": 57,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого». Бюджет не указан — цена по ставке, ~6 ч"
   }
  ]
 }
