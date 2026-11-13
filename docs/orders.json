@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-13T10:51:20.539787+00:00",
+ "updated": "2026-11-13T11:47:49.726003+00:00",
  "orders": [
+  {
+   "id": "552ccba1a13d",
+   "title": "Seo оптимизация сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529093/seo-optimizatsiya-sayta.html",
+   "date": "2026-11-13T11:01:53+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "874aaa7be18b",
    "title": "Проверка качества Python-сервиса интеграции с Telegram (Бюджет: 5 000 ₽)",
@@ -2383,18 +2395,6 @@
    "source": "FL.ru",
    "url": "https://www.fl.ru/projects/5528154/dizayn-sayta-po-gotovomu-brifu.html",
    "date": "2026-11-05T14:37:15+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "846d890d9453",
-   "title": "Продвижение сайта",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528107/prodvijenie-sayta.html",
-   "date": "2026-11-05T10:07:42+00:00",
    "fit": 67,
    "price": 18000,
    "hours": 12,
