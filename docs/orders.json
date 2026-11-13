@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-13T12:52:59.098441+00:00",
+ "updated": "2026-11-13T14:06:03.327313+00:00",
  "orders": [
+  {
+   "id": "f036bafddd26",
+   "title": "Нужен сайт",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529110/nujen-sayt.html",
+   "date": "2026-11-13T12:52:46+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «одностраничн, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "c3e2fccb8a43",
+   "title": "После обновления Divi нарушились настройки",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529114/posle-obnovleniya-divi-narushilis-nastroyki.html",
+   "date": "2026-11-13T13:40:42+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "f4b15039fc41",
    "title": "Провести аудит сайтов(лендингов)",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «html, интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "58323a1ef2d0",
-   "title": "Парсинг 8 контор БК.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528129/parsing-8-kontor-bk.html",
-   "date": "2026-11-05T12:00:08+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "545ff8ebdaa6",
-   "title": "Python-разработчик: довести готовую AI-систему расчёта до внедрения",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5527928/python-razrabotchik-dovesti-gotovuyu-ai-sistemu-raschta-do-vnedreniya.html",
-   "date": "2026-11-03T21:37:22+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «python». Бюджет не указан — цена по ставке, ~8 ч"
   }
  ]
 }
