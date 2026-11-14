@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-14T05:28:04.570112+00:00",
+ "updated": "2026-11-14T06:28:37.709217+00:00",
  "orders": [
+  {
+   "id": "22372817da55",
+   "title": "Дизайн логотипа и айдентики",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529153/dizayn-logotipa-i-aydentiki.html",
+   "date": "2026-11-14T06:03:39+00:00",
+   "fit": 97,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «айдентик, лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "014b1b65649f",
+   "title": "Отредактировать логотип",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529163/otredaktirovat-logotip.html",
+   "date": "2026-11-14T04:49:37+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "76c60e39e18c",
+   "title": "Доработка Python-бота (PyRakBR) для Black Russia: работа с пакетами данных, авто-капча и навигация. (Бюджет: 5 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529132/dorabotka-python-bota-pyrakbr-dlya-black-russia-rabota-s-paketami-dannyih-avto-kapcha-i-navigatsiya.html",
+   "date": "2026-11-14T06:03:20+00:00",
+   "fit": 79,
+   "price": 5000,
+   "hours": 8,
+   "budget": "5 000 ₽",
+   "why": "Парсер / автоматизация: совпало «python, скрипт». Бюджет клиента ~5 000 ₽"
+  },
+  {
+   "id": "c06e71442b85",
+   "title": "Разработка высоконагруженного шлюза и системы автоматизации рассылок для мессенджеров (Node.js/Go)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529170/razrabotka-vyisokonagrujennogo-shlyuza-i-sistemyi-avtomatizatsii-rassyilok-dlya-messendjerov-nodejs-go.html",
+   "date": "2026-11-14T06:26:45+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "b5fa578de4a3",
+   "title": "Необходимо переделать сайт.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529151/neobhodimo-peredelat-sayt-.html",
+   "date": "2026-11-14T06:13:04+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "a3e63794b560",
+   "title": "Нужно прокачать страницу в соцсети по продажам мобильных бань. Что бы увеличить продажи.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529154/nujno-prokachat-stranitsu-v-sotsseti-po-prodajam-mobilnyih-ban-chto-byi-uvelichit-prodaji.html",
+   "date": "2026-11-14T06:10:04+00:00",
+   "fit": 67,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "81fb766492d1",
+   "title": "Копирайтер для написания текстов на сайт",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529157/kopirayter-dlya-napisaniya-tekstov-na-sayt.html",
+   "date": "2026-11-14T06:09:25+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "e75f5126ea35",
+   "title": "Каталог на продукции в формате А4 для производителя САнтехники и мебели",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529140/katalog-na-produktsii-v-formate-a4-dlya-proizvoditelya-santehniki-i-mebeli-.html",
+   "date": "2026-11-14T06:10:09+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "a1297e8f02ca",
    "title": "Дизайн лэндинга (для всех)",
@@ -2304,102 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "b0fd840fea6f",
-   "title": "Нужно доработать и разработать проекты на Ларавел (Бюджет: 400 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528160/nujno-dorabotat-i-razrabotat-proektyi-na-laravel.html",
-   "date": "2026-11-05T15:02:52+00:00",
-   "fit": 57,
-   "price": 380000,
-   "hours": 12,
-   "budget": "400 000 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~400 000 ₽"
-  },
-  {
-   "id": "847d106e6a13",
-   "title": "Разработка мобильного приложение на Flutter",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5525662/razrabotka-mobilnogo-prilojenie-na-flutter.html",
-   "date": "2026-11-04T18:05:17+00:00",
-   "fit": 97,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «flutter, мобильн, приложение». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "ccaa9549c156",
-   "title": "WordPress-разработчик (чистая вёрстка + WP)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528083/wordpress-razrabotchik-chistaya-vrstka--wp.html",
-   "date": "2026-11-05T08:06:09+00:00",
-   "fit": 97,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «wordpress, вёрстк, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "19a9a8888c28",
-   "title": "Одностраничный сайт-визитка «Демонтаж и вывоз мусора» (Бюджет: Более 5 000 ₽/час)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528070/odnostranichnyiy-sayt-vizitka-demontaj-i-vyivoz-musora.html",
-   "date": "2026-11-05T06:10:27+00:00",
-   "fit": 97,
-   "price": 5000,
-   "hours": 12,
-   "budget": "5 000 ₽",
-   "why": "Сайт / лендинг: совпало «лендинг, одностраничн, сайт, сайт-визитк». Бюджет клиента ~5 000 ₽"
-  },
-  {
-   "id": "652bf992e42a",
-   "title": "Редактировать HTML страницу (Бюджет: 7 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528128/redaktirovat-html-stranitsu.html",
-   "date": "2026-11-05T11:49:50+00:00",
-   "fit": 91,
-   "price": 6500,
-   "hours": 12,
-   "budget": "7 000 ₽",
-   "why": "Сайт / лендинг: совпало «html, верстк, сайт». Бюджет клиента ~7 000 ₽"
-  },
-  {
-   "id": "ab7b8ad745f5",
-   "title": "Написать скрипт на PHP+MySQL получения данных по API Seller OZON",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528036/napisat-skript-na-phpmysql-polucheniya-dannyih-po-api-seller-ozon.html",
-   "date": "2026-11-04T20:36:13+00:00",
-   "fit": 89,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «api, скрипт». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "7834da349b04",
-   "title": "Восстановление и модернизация WordPress-сайта на новом хостинге",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5527933/vosstanovlenie-i-modernizatsiya-wordpress-sayta-na-novom-hostinge.html",
-   "date": "2026-11-03T23:46:27+00:00",
-   "fit": 89,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "669b4693af6b",
-   "title": "Разработка десктопного контроллера для автоматизации графических окон (C# / C++ / WinAPI) PoE",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5527894/razrabotka-desktopnogo-kontrollera-dlya-avtomatizatsii-graficheskih-okon-c---c---winapi---poe.html",
-   "date": "2026-11-03T18:04:20+00:00",
-   "fit": 89,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «api, автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
   }
  ]
 }
