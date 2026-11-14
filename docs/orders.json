@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-14T07:41:30.290883+00:00",
+ "updated": "2026-11-14T08:42:07.742189+00:00",
  "orders": [
+  {
+   "id": "4c1062d4ab22",
+   "title": "Дизайн лендинга в фигме. (Бюджет: 50 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529178/dizayn-lendinga-v-figme.html",
+   "date": "2026-11-14T08:18:23+00:00",
+   "fit": 91,
+   "price": 47500,
+   "hours": 12,
+   "budget": "50 000 ₽",
+   "why": "Сайт / лендинг: совпало «лендинг, одностраничн, сайт». Бюджет клиента ~50 000 ₽"
+  },
+  {
+   "id": "be57ec97ca19",
+   "title": "Ищем специалиста по парсингу и техническому аудиту",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529180/ischem-spetsialista-po-parsingu-i-tehnicheskomu-auditu.html",
+   "date": "2026-11-14T08:21:30+00:00",
+   "fit": 79,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «парсер, парсинг». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "c69eebf64089",
+   "title": "создать объявления в Яндекс Директе, настроить рекламные кампании",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529177/sozdat-obyyavleniya-v-yandeks-direkte-nastroit-reklamnyie-kampanii.html",
+   "date": "2026-11-14T08:01:07+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "22372817da55",
    "title": "Дизайн логотипа и айдентики",
@@ -2364,42 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «css, html, верстк, лендинг». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "f2bfc85c02ea",
-   "title": "Разработка интернет-магазина игровых услуг",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528191/razrabotka-internet-magazina-igrovyih-uslug.html",
-   "date": "2026-11-05T18:59:58+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "d6d18efde1ee",
-   "title": "Верстка лендинга на Tilda по макету Figma",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528176/verstka-lendinga-na-tilda-po-maketu-figma.html",
-   "date": "2026-11-05T17:14:51+00:00",
-   "fit": 97,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «css, html, tilda, wordpress». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "3c21bc0bd5c0",
-   "title": "Создание бота",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528169/sozdanie-bota.html",
-   "date": "2026-11-05T15:49:15+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
