@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-14T11:56:21.298289+00:00",
+ "updated": "2026-11-14T12:39:16.757696+00:00",
  "orders": [
+  {
+   "id": "231332fdd4b0",
+   "title": "Создать бот или мини-приложение в MAX под задачу - распродажа товара",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529209/sozdat-bot-ili-mini-prilojenie-v-max-pod-zadachu---rasprodaja-tovara.html",
+   "date": "2026-11-14T12:17:03+00:00",
+   "fit": 67,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "06dc05f38264",
+   "title": "Нужно создать телеграмм бота с ИИ",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529208/nujno-sozdat-telegramm-bota-s-ii-.html",
+   "date": "2026-11-14T12:16:58+00:00",
+   "fit": 57,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «telegram-бот». Бюджет не указан — цена по ставке, ~14 ч"
+  },
   {
    "id": "4c1062d4ab22",
    "title": "Дизайн лендинга в фигме. (Бюджет: 50 000 ₽)",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "a93e209e2b17",
-   "title": "Создать софт или бота для игры для авто фарма (Бюджет: 15 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528206/sozdat-soft-ili-bota-dlya-igryi-dlya-avto-farma.html",
-   "date": "2026-11-06T04:58:38+00:00",
-   "fit": 57,
-   "price": 14000,
-   "hours": 40,
-   "budget": "15 000 ₽",
-   "why": "Приложение: совпало «приложение». Бюджет клиента ~15 000 ₽"
-  },
-  {
-   "id": "ef0b0a678b54",
-   "title": "Html верстка",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528194/html-verstka.html",
-   "date": "2026-11-05T18:58:59+00:00",
-   "fit": 97,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «css, html, верстк, лендинг». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
