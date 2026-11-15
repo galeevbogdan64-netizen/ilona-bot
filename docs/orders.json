@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-15T20:35:27.382244+00:00",
+ "updated": "2026-11-15T21:16:29.061526+00:00",
  "orders": [
+  {
+   "id": "553ed339a7bd",
+   "title": "ведение каналов в максе и ТГ, по логопедии",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529341/vedenie-kanalov-v-makse-i-tg-po-logopedii.html",
+   "date": "2026-11-15T20:44:43+00:00",
+   "fit": 67,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "94c2393f8d1e",
+   "title": "Создать сайт для компании",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529339/sozdat-sayt-dlya-kompanii-.html",
+   "date": "2026-11-15T20:44:40+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "b9834fcf159d",
+   "title": "Выгрузка остатков товаров и Контрагентов из БУХ в КА",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529349/vyigruzka-ostatkov-tovarov-i-kontragentov-iz-buh-v-ka.html",
+   "date": "2026-11-15T20:48:57+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "29a6923c4db1",
+   "title": "Требуется специалист для продвижения проекта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529334/trebuetsya-spetsialist-dlya-prodvijeniya-proekta.html",
+   "date": "2026-11-15T20:48:08+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "3016e9d1d95b",
+   "title": "fullstack-разработчика на Next.js (middle/senior) на проектную работу",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529338/fullstack-razrabotchika-na-nextjs-middle-senior-na-proektnuyu-rabotu.html",
+   "date": "2026-11-15T20:47:31+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "221116f539c9",
    "title": "Разработка логотипа (для всех)",
@@ -2340,66 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «html, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "1b2d8aa6e659",
-   "title": "Создать карточки детских товаров",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528367/sozdat-kartochki-detskih-tovarov.html",
-   "date": "2026-11-07T11:09:09+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "2257433b89db",
-   "title": "Необходим скрипт для управления коэффициентом спроса",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528356/neobhodim-skript-dlya-upravleniya-koeffitsientom-sprosa.html",
-   "date": "2026-11-07T09:08:35+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «скрипт». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "8c0039b39365",
-   "title": "Разработка маркетплейса автозапчастей: 4 мобильных приложения + программа учёта для Windows",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528351/razrabotka-marketpleysa-avtozapchastey-4-mobilnyih-prilojeniya--programma-uchta-dlya-windows.html",
-   "date": "2026-11-07T07:47:46+00:00",
-   "fit": 79,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «мобильн, приложение». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "2de97043cfdf",
-   "title": "Перерисовать игровой логотип в векторе в стиле Synty (Game UI) (Бюджет: 7 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528346/pererisovat-igrovoy-logotip-v-vektore-v-stile-synty-game-ui.html",
-   "date": "2026-11-07T07:03:06+00:00",
-   "fit": 89,
-   "price": 6500,
-   "hours": 6,
-   "budget": "7 000 ₽",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~7 000 ₽"
-  },
-  {
-   "id": "4012461a15e2",
-   "title": "Обновить дизайн главной страницы сайта Битрикс (мини-интернет магазин)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528349/obnovit-dizayn-glavnoy-stranitsyi-sayta-bitriks-mini-internet-magazin.html",
-   "date": "2026-11-07T07:17:18+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
