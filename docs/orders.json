@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-15T07:45:29.815370+00:00",
+ "updated": "2026-11-15T08:44:30.353063+00:00",
  "orders": [
+  {
+   "id": "bf32da25f638",
+   "title": "Интеграция AI через API",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529284/integratsiya-ai-cherez-api.html",
+   "date": "2026-11-15T07:26:41+00:00",
+   "fit": 89,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api, интеграц». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "6a23ab2aac2f",
+   "title": "Запустить сайт или понять, почему не работает (Бюджет: 80 520 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529286/zapustit-sayt-ili-ponyat-pochemu-ne-rabotaet.html",
+   "date": "2026-11-15T08:01:44+00:00",
+   "fit": 67,
+   "price": 76500,
+   "hours": 12,
+   "budget": "80 520 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~80 520 ₽"
+  },
   {
    "id": "f2ccddc2bf55",
    "title": "нужен программист сайта DLE",
@@ -2372,30 +2396,6 @@
    "url": "https://www.fl.ru/projects/5528264/vneshnie-ssyilki-dlya-sayta-tsvetochnoy-masterskoy-v-spb.html",
    "date": "2026-11-06T11:29:52+00:00",
    "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "07d6e71446f6",
-   "title": "Дизайн сайта бренда очистителей (Бюджет: 25 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528261/dizayn-sayta-brenda-ochistiteley-.html",
-   "date": "2026-11-06T10:55:58+00:00",
-   "fit": 67,
-   "price": 24000,
-   "hours": 12,
-   "budget": "25 000 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~25 000 ₽"
-  },
-  {
-   "id": "2e09d0783224",
-   "title": "Сделать дизайн карточки товара (Бюджет: 120 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528267/sdelat-dizayn-kartochki-tovara.html",
-   "date": "2026-11-06T11:39:54+00:00",
-   "fit": 57,
    "price": 18000,
    "hours": 12,
    "budget": "",
