@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-15T06:30:17.435267+00:00",
+ "updated": "2026-11-15T07:45:29.815370+00:00",
  "orders": [
+  {
+   "id": "f2ccddc2bf55",
+   "title": "нужен программист сайта DLE",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529281/nujen-programmist-sayta-dle.html",
+   "date": "2026-11-15T06:31:20+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "8b49f61c30f2",
+   "title": "Нужен доступ к платному SEO-сервису",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529253/nujen-dostup-k-platnomu-seo-servisu.html",
+   "date": "2026-11-14T21:56:27+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "f40c52d665d4",
    "title": "Отрисовать логотип в кривых (Бюджет: 120 ₽)",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "f4c9a73e8c14",
-   "title": "Разработать графический стиль для музея (Бюджет: 60 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528246/razrabotat-graficheskiy-stil-dlya-muzeya.html",
-   "date": "2026-11-06T10:13:14+00:00",
-   "fit": 69,
-   "price": 57000,
-   "hours": 6,
-   "budget": "60 000 ₽",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~60 000 ₽"
-  },
-  {
-   "id": "0797e6b3e1a5",
-   "title": "Требуется создать рекламный ролик на 20 секунд жилого объекта с помощью ИИ",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528242/trebuetsya-sozdat-reklamnyiy-rolik-na-20-sekund--jilogo-obyekta-s-pomoschyu-ii-.html",
-   "date": "2026-11-06T09:29:47+00:00",
-   "fit": 67,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого». Бюджет не указан — цена по ставке, ~6 ч"
   }
  ]
 }
