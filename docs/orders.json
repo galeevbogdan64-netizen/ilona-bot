@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-15T05:29:51.911119+00:00",
+ "updated": "2026-11-15T06:30:17.435267+00:00",
  "orders": [
+  {
+   "id": "f40c52d665d4",
+   "title": "Отрисовать логотип в кривых (Бюджет: 120 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529271/otrisovat-logotip-v-krivyih.html",
+   "date": "2026-11-15T06:19:24+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "d3e22450d87c",
+   "title": "сделать сайт для такси (Бюджет: 5 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529269/sdelat-sayt-dlya-taksi.html",
+   "date": "2026-11-15T06:22:15+00:00",
+   "fit": 67,
+   "price": 5000,
+   "hours": 12,
+   "budget": "5 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~5 000 ₽"
+  },
+  {
+   "id": "edc5ffa9c598",
+   "title": "Создать сайт",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529279/sozdat-sayt.html",
+   "date": "2026-11-15T06:13:30+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "889ed8610bd5",
    "title": "приложение для такси (Бюджет: 75 000 ₽)",
@@ -2364,42 +2400,6 @@
    "hours": 6,
    "budget": "",
    "why": "Логотип / фирменный стиль: совпало «лого». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "ef232eaacf0c",
-   "title": "Настройка автоматического сбора комментариев и обращений из TikTok",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528228/nastroyka-avtomaticheskogo-sbora-kommentariev-i-obrascheniy-iz-tiktok.html",
-   "date": "2026-11-06T07:55:12+00:00",
-   "fit": 57,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «интеграц». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "0441ecf6b4f3",
-   "title": "приложение на Android",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528216/prilojenie-na-android.html",
-   "date": "2026-11-06T05:20:52+00:00",
-   "fit": 97,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «android, ios, приложение». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "a0e1a998fb92",
-   "title": "Перенос сайта на wordpress (Бюджет: 25 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528221/perenos-sayta-na-wordpress.html",
-   "date": "2026-11-06T06:41:29+00:00",
-   "fit": 89,
-   "price": 24000,
-   "hours": 12,
-   "budget": "25 000 ₽",
-   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет клиента ~25 000 ₽"
   }
  ]
 }
