@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T19:06:59.272173+00:00",
+ "updated": "2026-11-15T19:57:25.511966+00:00",
  "orders": [
+  {
+   "id": "221116f539c9",
+   "title": "Разработка логотипа (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529345/razrabotka-logotipa.html",
+   "date": "2026-11-15T19:07:01+00:00",
+   "fit": 97,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «айдентик, лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
   {
    "id": "a432b7a09402",
    "title": "Оформление соц сетей (Бюджет: 15 000 ₽)",
@@ -2383,18 +2395,6 @@
    "source": "FL.ru",
    "url": "https://www.fl.ru/projects/5528349/obnovit-dizayn-glavnoy-stranitsyi-sayta-bitriks-mini-internet-magazin.html",
    "date": "2026-11-07T07:17:18+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "407c7c897d30",
-   "title": "Перенос товаров с одного сайта на другой (Бюджет: 250 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528336/perenos-tovarov-s-odnogo-sayta-na-drugoy.html",
-   "date": "2026-11-07T06:16:49+00:00",
    "fit": 67,
    "price": 18000,
    "hours": 12,
