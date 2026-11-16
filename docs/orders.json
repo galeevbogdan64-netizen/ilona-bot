@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-16T05:30:42.678013+00:00",
+ "updated": "2026-11-16T07:17:26.687028+00:00",
  "orders": [
+  {
+   "id": "b44cb172881b",
+   "title": "Изготовить с нуля баннер для сайта 913 на 760 (Бюджет: 150 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529365/izgotovit-s-nulya-banner-dlya-sayta-913-na-760.html",
+   "date": "2026-11-16T06:17:18+00:00",
+   "fit": 67,
+   "price": 142500,
+   "hours": 12,
+   "budget": "150 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~150 000 ₽"
+  },
+  {
+   "id": "f1e782126ffb",
+   "title": "Изменить фото на сайте, добавить описание.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529324/izmenit-foto-na-sayte-dobavit-opisanie.html",
+   "date": "2026-11-16T06:12:52+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "7f57eac735c9",
    "title": "доработка структуры сайта",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "88ee6f17867b",
-   "title": "Защита баз данных компании от Парсинга",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528374/zaschita-baz-dannyih-kompanii-ot-parsinga.html",
-   "date": "2026-11-07T11:55:31+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "6c962325533b",
-   "title": "Настройка автопостинга в Telegram-группы и создание Telegram-ботов. Ищу 1-2 человек.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528370/nastroyka-avtopostinga-v-telegram-gruppyi-i-sozdanie-telegram-botov-ischu-1-2-chelovek-.html",
-   "date": "2026-11-07T11:30:34+00:00",
-   "fit": 67,
-   "price": 21000,
-   "hours": 14,
-   "budget": "",
-   "why": "Telegram-бот: совпало «telegram-бот». Бюджет не указан — цена по ставке, ~14 ч"
   }
  ]
 }
