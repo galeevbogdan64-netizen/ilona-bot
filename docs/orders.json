@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-16T17:04:21.764507+00:00",
+ "updated": "2026-11-16T18:14:43.314623+00:00",
  "orders": [
+  {
+   "id": "6918b8889001",
+   "title": "Python API для KiCAD - перенос из csv координат линий дорожек печатной платы (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529466/python-api-dlya-kicad---perenos-iz-csv-koordinat-liniy-dorojek-pechatnoy-platyi.html",
+   "date": "2026-11-16T17:27:25+00:00",
+   "fit": 89,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api, python». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "64dbe13fd424",
+   "title": "Отвязался домен / поддержка сайта WordPress",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529448/otvyazalsya-domen---podderjka-sayta-wordpress-.html",
+   "date": "2026-11-16T14:09:06+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "862502375cc6",
+   "title": "Интегрировать сайт архитектурного бюро с CRM БИТРИКС",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529453/integrirovat-sayt-arhitekturnogo-byuro-s-crm-bitriks.html",
+   "date": "2026-11-16T14:54:41+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "b756ca72e457",
+   "title": "Продвижение сайта программного продукта в топ",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529435/prodvijenie-sayta-programmnogo-produkta-v-top.html",
+   "date": "2026-11-16T13:48:55+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "1742494c3090",
+   "title": "Создание и ведение рекламной компании Яндекс Директ.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529458/sozdanie-i-vedenie-reklamnoy-kompanii-yandeks-direkt.html",
+   "date": "2026-11-16T15:37:54+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "3ee0e2fbd79a",
+   "title": "3d персонажи (Бюджет: 3 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529455/3d-personaji.html",
+   "date": "2026-11-16T14:58:49+00:00",
+   "fit": 57,
+   "price": 3000,
+   "hours": 12,
+   "budget": "3 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~3 000 ₽"
+  },
+  {
+   "id": "5885e4a6ada3",
+   "title": "Нужно сделать онлайн дашборд",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529432/nujno-sdelat-onlayn-dashbord.html",
+   "date": "2026-11-16T12:47:09+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «вёрстк». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "da35d2842734",
    "title": "Настройка Юридического ИИ-агента (для всех)",
@@ -2316,90 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "0e57bb17ae68",
-   "title": "Senior SEO/GEO: Pre-release сайта (EU/Global). Без РФ/СНГ",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528467/senior-seo-geo-pre-release-sayta-eu-global-bez-rf-sng.html",
-   "date": "2026-11-08T10:32:41+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "1307e33ca30b",
-   "title": "Baiysh.kg",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528469/baiyshkg.html",
-   "date": "2026-11-08T10:37:31+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "7648fbbe1b49",
-   "title": "Разработка LALAGON Staking — Solana SOL, Testnet (этап 1) (Бюджет: 22 400 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528462/razrabotka-lalagon-staking--solana-sol-testnet-etap-1.html",
-   "date": "2026-11-08T10:09:21+00:00",
-   "fit": 57,
-   "price": 21500,
-   "hours": 8,
-   "budget": "22 400 ₽",
-   "why": "Парсер / автоматизация: совпало «интеграц». Бюджет клиента ~22 400 ₽"
-  },
-  {
-   "id": "525967d0b454",
-   "title": "UI/UX-дизайнер для разработки криптовалютного веб-сервиса",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528457/ui-ux-dizayner-dlya-razrabotki-kriptovalyutnogo-veb-servisa.html",
-   "date": "2026-11-08T08:56:42+00:00",
-   "fit": 69,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «лендинг, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "c8cc2f776a5c",
-   "title": "Разработка рендеров с интерьерами и окнами",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528450/razrabotka-renderov-s-intererami-i-oknami.html",
-   "date": "2026-11-08T07:43:07+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "7639397700cf",
-   "title": "Перенести сайт на другой хостинг и настроить, чтобы сайт работал",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528441/perenesti-sayt-na-drugoy-hosting-i-nastroit-chtobyi-sayt-rabotal.html",
-   "date": "2026-11-08T06:15:01+00:00",
-   "fit": 79,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "18d8e00e4265",
-   "title": "Переработать UI дизайн мобильной игры.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528440/pererabotat-ui-dizayn-mobilnoy-igryi.html",
-   "date": "2026-11-08T06:14:07+00:00",
-   "fit": 67,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
   }
  ]
 }
