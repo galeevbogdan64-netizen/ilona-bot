@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-17T07:56:00.531901+00:00",
+ "updated": "2026-11-17T08:52:27.211414+00:00",
  "orders": [
+  {
+   "id": "0f5cfea1b10a",
+   "title": "Программирование / верстка Битрикс. Создать новый раздел с страницами на сайте (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529531/programmirovanie---verstka-bitriks-sozdat-novyiy-razdel-s-stranitsami-na-sayte.html",
+   "date": "2026-11-17T06:14:52+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «верстк, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "c441c37f6c6c",
+   "title": "Сайт для литературного проекта: короткие новеллы, удобное чтение с телефона, аналитика дочитываний (Бюджет: 6 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529542/sayt-dlya-literaturnogo-proekta-korotkie-novellyi-udobnoe-chtenie-s-telefona-analitika-dochityivaniy.html",
+   "date": "2026-11-17T08:08:47+00:00",
+   "fit": 67,
+   "price": 5500,
+   "hours": 12,
+   "budget": "6 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~6 000 ₽"
+  },
+  {
+   "id": "f3cbf0ac068a",
+   "title": "Нужен сайт магазин с одним товаром",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529530/nujen-sayt-magazin-s-odnim-tovarom.html",
+   "date": "2026-11-17T06:14:21+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "3c0095ed59c0",
    "title": "Автоматизация действий на Pump.fun: регистрация кошельков по почте + автопостинг (Bypass Cloudflare) (Бюджет: 20 000 ₽)",
@@ -2364,42 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "09bbf85a15a2",
-   "title": "cделать само продающий лендинг",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528503/cdelat-samo-prodayuschiy-lending-.html",
-   "date": "2026-11-08T16:55:22+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «лендинг». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "4720d2ceb527",
-   "title": "Верстка путеводителя-карты (А4 → 4 окна, 99×210 мм) под печать",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528499/verstka-putevoditelya-kartyi--a4--4-okna-99210-mm-pod-pechat.html",
-   "date": "2026-11-08T15:07:49+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "7742edbd6f06",
-   "title": "Автоматизация заказ-нарядов: n8n + OCR + ИИ + Google Sheets (Бюджет: 30 000 ₽, для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528498/avtomatizatsiya-zakaz-naryadov-n8n--ocr--ii--google-sheets.html",
-   "date": "2026-11-08T14:37:26+00:00",
-   "fit": 97,
-   "price": 28500,
-   "hours": 8,
-   "budget": "30 000 ₽",
-   "why": "Парсер / автоматизация: совпало «api, google таблиц, n8n, автоматизац». Бюджет клиента ~30 000 ₽"
   }
  ]
 }
