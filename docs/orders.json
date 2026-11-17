@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-17T04:15:08.977203+00:00",
+ "updated": "2026-11-17T05:17:24.200881+00:00",
  "orders": [
+  {
+   "id": "3c0095ed59c0",
+   "title": "Автоматизация действий на Pump.fun: регистрация кошельков по почте + автопостинг (Bypass Cloudflare) (Бюджет: 20 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529459/avtomatizatsiya-deystviy-na-pumpfun-registratsiya-koshelkov-po-pochte--avtoposting-bypass-cloudflare.html",
+   "date": "2026-11-17T03:26:32+00:00",
+   "fit": 79,
+   "price": 19000,
+   "hours": 8,
+   "budget": "20 000 ₽",
+   "why": "Парсер / автоматизация: совпало «автоматизац, скрипт». Бюджет клиента ~20 000 ₽"
+  },
+  {
+   "id": "5eded226f7b2",
+   "title": "Веб-игра «Глубина»: рогалик с прокачкой, предметами и Telegram-ботом (Бюджет: 45 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529509/veb-igra-glubina-rogalik-s-prokachkoy-predmetami-i-telegram-botom.html",
+   "date": "2026-11-17T05:02:50+00:00",
+   "fit": 67,
+   "price": 43000,
+   "hours": 14,
+   "budget": "45 000 ₽",
+   "why": "Telegram-бот: совпало «telegram-бот». Бюджет клиента ~45 000 ₽"
+  },
+  {
+   "id": "6c6a7a6c77ae",
+   "title": "Telegram-бот для разбора матчей CS2: статистика, ошибки и советы (Бюджет: 40 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529510/telegram-bot-dlya-razbora-matchey-cs2-statistika-oshibki-i-sovetyi.html",
+   "date": "2026-11-17T05:02:17+00:00",
+   "fit": 67,
+   "price": 38000,
+   "hours": 14,
+   "budget": "40 000 ₽",
+   "why": "Telegram-бот: совпало «telegram-бот». Бюджет клиента ~40 000 ₽"
+  },
+  {
+   "id": "5111364a360b",
+   "title": "Telegram-бот для интернет-магазина: каталог, заказы, оплата и админка (Бюджет: 60 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529508/telegram-bot-dlya-internet-magazina-katalog-zakazyi-oplata-i-adminka.html",
+   "date": "2026-11-17T04:54:21+00:00",
+   "fit": 67,
+   "price": 57000,
+   "hours": 12,
+   "budget": "60 000 ₽",
+   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет клиента ~60 000 ₽"
+  },
+  {
+   "id": "8401949f6ae7",
+   "title": "Нужен UX/UI-дизайнер для разбора Telegram mini app",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529504/nujen-ux-ui-dizayner-dlya-razbora-telegram-mini-app.html",
+   "date": "2026-11-17T05:07:05+00:00",
+   "fit": 67,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «mini app». Бюджет не указан — цена по ставке, ~14 ч"
+  },
   {
    "id": "6918b8889001",
    "title": "Python API для KiCAD - перенос из csv координат линий дорожек печатной платы (для всех)",
@@ -2340,66 +2400,6 @@
    "hours": 8,
    "budget": "30 000 ₽",
    "why": "Парсер / автоматизация: совпало «api, google таблиц, n8n, автоматизац». Бюджет клиента ~30 000 ₽"
-  },
-  {
-   "id": "d6238a9341aa",
-   "title": "Разработка PWA для УК",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528496/razrabotka-pwa-dlya-uk.html",
-   "date": "2026-11-08T14:23:04+00:00",
-   "fit": 79,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «pwa, приложение». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "beb4c5c99b32",
-   "title": "обновлениe существующего сайта кондитерской студии",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528494/obnovlenie-suschestvuyuschego-sayta-konditerskoy-studii.html",
-   "date": "2026-11-08T14:08:44+00:00",
-   "fit": 79,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "b654fe377659",
-   "title": "Разработка кей-арта, маскота и бейджа для киноподкаста. Финал – ручная работа (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528480/razrabotka-key-arta-maskota-i-beydja-dlya-kinopodkasta-final--ruchnaya-rabota.html",
-   "date": "2026-11-08T12:45:18+00:00",
-   "fit": 57,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «айдентик». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "346f37d7b10f",
-   "title": "Нужно разработать сайт + систему",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528469/nujno-razrabotat-sayt--sistemu.html",
-   "date": "2026-11-08T10:37:31+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "5c6acf185fc9",
-   "title": "Разработать инфографику для раздвижных окон",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528473/razrabotat-infografiku-dlya-razdvijnyih-okon.html",
-   "date": "2026-11-08T11:28:31+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
