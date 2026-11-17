@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-17T21:44:20.606342+00:00",
+ "updated": "2026-11-17T22:45:42.214340+00:00",
  "orders": [
+  {
+   "id": "7a42bf1106f3",
+   "title": "Производство сайта. (Бюджет: 70 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529649/proizvodstvo-sayta.html",
+   "date": "2026-11-17T21:58:41+00:00",
+   "fit": 67,
+   "price": 66500,
+   "hours": 12,
+   "budget": "70 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~70 000 ₽"
+  },
+  {
+   "id": "1994b89279c5",
+   "title": "Нужен сайт для компании по натяжным потолкам в Москве",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529659/nujen-sayt-dlya-kompanii-po-natyajnyim-potolkam-v-moskve.html",
+   "date": "2026-11-17T21:56:35+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "8f559326ae3c",
+   "title": "Записать короткое игровое видео (тест игрового веб-чата с эмоциями) (Бюджет: 100 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529637/zapisat-korotkoe-igrovoe-video-test-igrovogo-veb-chata-s-emotsiyami.html",
+   "date": "2026-11-17T18:26:15+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "df4efc55c1d2",
    "title": "Консультация по верификации в Claude (Бюджет: 4 000 ₽)",
@@ -2364,42 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «вордпресс, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "d7165c70c063",
-   "title": "Разработка Telegram-бота для управления автопарком (MVP)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528575/razrabotka-telegram-bota-dlya-upravleniya-avtoparkom-mvp.html",
-   "date": "2026-11-09T09:48:51+00:00",
-   "fit": 67,
-   "price": 21000,
-   "hours": 14,
-   "budget": "",
-   "why": "Telegram-бот: совпало «telegram-бот». Бюджет не указан — цена по ставке, ~14 ч"
-  },
-  {
-   "id": "439f3951fc60",
-   "title": "Верстка материала на Readymag либо shortland",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528551/verstka-materiala-na-readymag-libo-shortland.html",
-   "date": "2026-11-09T07:02:19+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "816d78061882",
-   "title": "Сделать ИИ Агента",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528571/sdelat-ii-agenta.html",
-   "date": "2026-11-09T09:35:25+00:00",
-   "fit": 57,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «n8n». Бюджет не указан — цена по ставке, ~8 ч"
   }
  ]
 }
