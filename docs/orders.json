@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-18T04:16:19.898341+00:00",
+ "updated": "2026-11-18T05:22:02.758467+00:00",
  "orders": [
+  {
+   "id": "429434fdd252",
+   "title": "Разработка логотипа (Бюджет: 30 000 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529624/razrabotka-logotipa.html",
+   "date": "2026-11-18T04:51:55+00:00",
+   "fit": 89,
+   "price": 28500,
+   "hours": 6,
+   "budget": "30 000 ₽",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~30 000 ₽"
+  },
+  {
+   "id": "3e2a3c94edd9",
+   "title": "Разработка нового дизайна и структуры интернет-магазина (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529664/razrabotka-novogo-dizayna-i-strukturyi-internet-magazina.html",
+   "date": "2026-11-18T04:52:24+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "2e04e95208b5",
+   "title": "Нужно сделать иконки для сайта конфигуратора дверей. Есть образец.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529650/nujno-sdelat-ikonki-dlya-sayta-konfiguratora-dverey-est-obrazets.html",
+   "date": "2026-11-18T04:58:42+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "9f0ca82396ea",
+   "title": "Провести бухгалтерский аудит ИП на УСН",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529661/provesti-buhgalterskiy-audit-ip-na-usn.html",
+   "date": "2026-11-18T04:53:53+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "08c5c24467c2",
+   "title": "Создать игру в Роблокс",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529644/sozdat-igru-v-robloks.html",
+   "date": "2026-11-18T04:53:22+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «скрипт». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "7a42bf1106f3",
    "title": "Производство сайта. (Бюджет: 70 000 ₽)",
@@ -2340,66 +2400,6 @@
    "hours": 6,
    "budget": "550 ₽",
    "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~550 ₽"
-  },
-  {
-   "id": "aaa6a7b1a926",
-   "title": "Здравствуйте! Ищу исполнителя для комплексной разработки проекта «под ключ».",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528606/zdravstvuyte-ischu-ispolnitelya-dlya-kompleksnoy-razrabotki-proekta-pod-klyuch-.html",
-   "date": "2026-11-09T12:36:22+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "2b18134267ed",
-   "title": "Проектирование интерфейса и дизайна нового сервиса",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528583/proektirovanie-interfeysa-i-dizayna-novogo-servisa.html",
-   "date": "2026-11-09T11:05:27+00:00",
-   "fit": 69,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «android, ios». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "2b613b9e1d09",
-   "title": "Разработка 2х томов стадии Р по электроснабжению и автоматизации",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528586/razrabotka-2h-tomov-stadii-r-po-elektrosnabjeniyu-i-avtomatizatsii.html",
-   "date": "2026-11-09T11:00:04+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "8587bb1aee78",
-   "title": "Разработка кастомной CRM и мобильного приложения для сервисного центра с интеграцией ИИ (OpenAI API) (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528574/razrabotka-kastomnoy-crm-i-mobilnogo-prilojeniya-dlya-servisnogo-tsentra-s-integratsiey-ii-openai-api.html",
-   "date": "2026-11-09T09:46:07+00:00",
-   "fit": 97,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «api, python, автоматизац, интеграц». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "09d9c1836410",
-   "title": "Восстановить сайт, размещенный на бегет",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528553/vosstanovit-sayt-razmeschennyiy-na-beget-.html",
-   "date": "2026-11-09T07:26:58+00:00",
-   "fit": 79,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «вордпресс, сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
