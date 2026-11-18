@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-18T15:16:15.146751+00:00",
+ "updated": "2026-11-18T16:20:41.640452+00:00",
  "orders": [
+  {
+   "id": "f96160f98a0b",
+   "title": "Продающая структура персонального сайта (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529757/prodayuschaya-struktura-personalnogo-sayta.html",
+   "date": "2026-11-18T14:17:23+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "39e98d5148b6",
+   "title": "Ведение соц сетей для сообщества психологов в г Краснодар",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529762/vedenie-sots-setey-dlya-soobschestva-psihologov-v-g-krasnodar-.html",
+   "date": "2026-11-18T15:17:45+00:00",
+   "fit": 67,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "fddf304e3a5e",
+   "title": "Техническое SEO сайта: диагностика падения трафика и внедрение исправлений",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529760/tehnicheskoe-seo-sayta-diagnostika-padeniya-trafika-i-vnedrenie-ispravleniy.html",
+   "date": "2026-11-18T15:05:25+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "207869eac13b",
+   "title": "Создание сайта-визитки продуктового бренда",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529756/sozdanie-sayta-vizitki-produktovogo-brenda.html",
+   "date": "2026-11-18T14:20:50+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "52fdd3a3c990",
    "title": "Внести корректировки в уже существующий сайт (tilda) (Бюджет: 10 000 ₽)",
@@ -2352,54 +2400,6 @@
    "hours": 8,
    "budget": "5 000 ₽",
    "why": "Парсер / автоматизация: совпало «api, python». Бюджет клиента ~5 000 ₽"
-  },
-  {
-   "id": "c58c2fb72aa9",
-   "title": "нужен бот-Авто брокер для фарпоста. (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5355552/nujen-bot-avto-broker-dlya-farposta.html",
-   "date": "2026-11-10T02:27:30+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "42fb42663d3a",
-   "title": "Доработка готовой векторной раскройки упаковки.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528713/dorabotka-gotovoy-vektornoy-raskroyki-upakovki-.html",
-   "date": "2026-11-10T08:59:59+00:00",
-   "fit": 69,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "07815e0efe95",
-   "title": "Платформа или приложение",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528711/platforma-ili-prilojenie-.html",
-   "date": "2026-11-10T08:34:11+00:00",
-   "fit": 67,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "5b1a8aaffdf1",
-   "title": "Ui мобильного приложения, интерфейс в фигме (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528716/ui-mobilnogo-prilojeniya-interfeys-v-figme.html",
-   "date": "2026-11-10T09:03:31+00:00",
-   "fit": 57,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «api». Бюджет не указан — цена по ставке, ~8 ч"
   }
  ]
 }
