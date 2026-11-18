@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-18T06:38:21.730919+00:00",
+ "updated": "2026-11-18T07:56:40.929648+00:00",
  "orders": [
+  {
+   "id": "b0bd54d88be9",
+   "title": "Создание сайта под ключ на тильда",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529679/sozdanie-sayta-pod-klyuch-na-tilda-.html",
+   "date": "2026-11-18T07:25:41+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт, тильда». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "ec7543330e60",
+   "title": "Реновация сайта с помощью Claude",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529685/renovatsiya-sayta-s-pomoschyu-claude.html",
+   "date": "2026-11-18T07:47:38+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "9d0d1fe7c1e4",
+   "title": "На основании ссылки на ресурс и по номеру сертификата получить недостающие данные",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529682/na-osnovanii-ssyilki-na-resurs-i-po-nomeru-sertifikata-poluchit-nedostayuschie-dannyie.html",
+   "date": "2026-11-18T07:48:22+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "bb88a4c1ad0b",
+   "title": "Ищу маркетолога с опытом B2C-подписок для консультации по продвижению ИИ-сервиса — 7 000 ₽ (Бюджет: 7 000 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529678/ischu-marketologa-s-opyitom-b2c-podpisok-dlya-konsultatsii-po-prodvijeniyu-ii-servisa--7000-.html",
+   "date": "2026-11-18T07:00:46+00:00",
+   "fit": 57,
+   "price": 6500,
+   "hours": 40,
+   "budget": "7 000 ₽",
+   "why": "Приложение: совпало «мобильн». Бюджет клиента ~7 000 ₽"
+  },
   {
    "id": "5e2f1236076e",
    "title": "сайт-визитка психолога на Tilda. Есть сайт-образец, структуру и стиль которого нужно повторить",
@@ -2352,54 +2400,6 @@
    "hours": 8,
    "budget": "",
    "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "581b5fd9ae4a",
-   "title": "Интеграция: заказы из Авито и ВК в Telegram",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528632/integratsiya-zakazyi-iz-avito-i-vk-v-telegram.html",
-   "date": "2026-11-09T16:11:44+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «интеграц». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "2eb4445c934f",
-   "title": "Фирменный паттерн, оклейка Mercedes Sprinter и бланк + файлы для типографии (Бюджет: 10 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528618/firmennyiy-pattern-okleyka-mercedes-sprinter-i-blank--faylyi-dlya-tipografii.html",
-   "date": "2026-11-09T14:19:11+00:00",
-   "fit": 69,
-   "price": 9500,
-   "hours": 6,
-   "budget": "10 000 ₽",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~10 000 ₽"
-  },
-  {
-   "id": "9c0d5f22c4e7",
-   "title": "Техническое задание на разработку логотипа / фирменного элемента",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528613/tehnicheskoe-zadanie-na-razrabotku-logotipa---firmennogo-elementa.html",
-   "date": "2026-11-09T13:20:47+00:00",
-   "fit": 89,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "eef373ff2703",
-   "title": "Нужен логотип для ТК. Занимаемся Домашними переездами. (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528609/nujen-logotip-dlya-tk-zanimaemsya-domashnimi-pereezdami.html",
-   "date": "2026-11-09T13:03:01+00:00",
-   "fit": 89,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
   }
  ]
 }
