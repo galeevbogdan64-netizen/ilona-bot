@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-18T08:56:28.968581+00:00",
+ "updated": "2026-11-18T09:56:01.356003+00:00",
  "orders": [
+  {
+   "id": "0bffa8bfcc15",
+   "title": "Редизайн интернет-магазина с сохранением обмена с «Мой склад»",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529688/redizayn-internet-magazina-s-sohraneniem-obmena-s-moy-sklad.html",
+   "date": "2026-11-18T08:10:47+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "3d038c19193f",
+   "title": "Ищем веб-дизайнера для разработки дизайна сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529696/ischem-veb-dizaynera-dlya-razrabotki-dizayna-sayta.html",
+   "date": "2026-11-18T09:09:47+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "b0bd54d88be9",
    "title": "Создание сайта под ключ на тильда",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "18f503a0358a",
-   "title": "Сделать классное фото для размещения на сайт",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528635/sdelat-klassnoe-foto-dlya-razmescheniya-na-sayt.html",
-   "date": "2026-11-09T16:24:31+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "9b1aa39adb50",
-   "title": "Регулярный парсинг маркетплейса (233 SKU) — обновление каждый понедельник",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528630/regulyarnyiy-parsing-marketpleysa-233-sku--obnovlenie-kajdyiy-ponedelnik.html",
-   "date": "2026-11-09T15:56:12+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
   }
  ]
 }
