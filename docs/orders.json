@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-19T05:56:36.482366+00:00",
+ "updated": "2026-11-19T07:04:18.441346+00:00",
  "orders": [
+  {
+   "id": "a2fae73ccda3",
+   "title": "Настройка контекстной рекламы (Яндекс Директ) на сайт отеля 5* (Благовещенск. Амурская область) (Бюджет: 50 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529803/nastroyka-kontekstnoy-reklamyi-yandeks-direkt-na-sayt-otelya-5-blagoveschensk-amurskaya-oblast.html",
+   "date": "2026-11-19T06:39:55+00:00",
+   "fit": 67,
+   "price": 47500,
+   "hours": 12,
+   "budget": "50 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~50 000 ₽"
+  },
+  {
+   "id": "c4d9460dcffa",
+   "title": "Векторная отрисовка гор с фотографии для веб-сайтов и широкоформатной печати",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529800/vektornaya-otrisovka-gor-s-fotografii-dlya-veb-saytov-i-shirokoformatnoy-pechati.html",
+   "date": "2026-11-19T06:38:39+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "47bb200991b9",
    "title": "Парсер youtube",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "fc5360326090",
-   "title": "нужен бот-Авто брокер. (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5355552/nujen-bot-avto-broker.html",
-   "date": "2026-11-10T02:27:30+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "d44850345dd9",
-   "title": "Записать видео-отзыв о языковом приложении",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528738/zapisat-video-otzyiv-o-yazyikovom-prilojenii.html",
-   "date": "2026-11-10T11:42:38+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «лендинг». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
