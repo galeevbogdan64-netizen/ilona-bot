@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-19T12:38:09.280398+00:00",
+ "updated": "2026-11-19T13:56:34.360780+00:00",
  "orders": [
+  {
+   "id": "476e48dc89ad",
+   "title": "Разработка простого веб-сайта (личный кабинет) с подпиской $4, 4-уровневой партнеркой и оплатой USDT",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529841/razrabotka-prostogo-veb-sayta-lichnyiy-kabinet-s-podpiskoy-4-4-urovnevoy-partnerkoy-i-oplatoy-usdt.html",
+   "date": "2026-11-19T13:09:03+00:00",
+   "fit": 69,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api, python». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "88aba02e552e",
+   "title": "Звонки собственникам квартир в Москве — удалённо, оплата каждый день! (Бюджет: 70 000 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529712/zvonki-sobstvennikam-kvartir-v-moskve--udalnno-oplata-kajdyiy-den.html",
+   "date": "2026-11-19T13:03:42+00:00",
+   "fit": 57,
+   "price": 66500,
+   "hours": 8,
+   "budget": "70 000 ₽",
+   "why": "Парсер / автоматизация: совпало «скрипт». Бюджет клиента ~70 000 ₽"
+  },
   {
    "id": "6f5603b4d57c",
    "title": "На нашем сайте на тильде нужно сделать две посадочные страницы",
@@ -2376,30 +2400,6 @@
    "hours": 8,
    "budget": "",
    "why": "Парсер / автоматизация: совпало «api, n8n, python, парсер». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "7b3fa67dc3eb",
-   "title": "On-Page SEO/GEO для европейского сайта",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528745/on-page-seo-geo-dlya-evropeyskogo-sayta.html",
-   "date": "2026-11-10T12:07:48+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "15508e9ca497",
-   "title": "нужен бот (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5355552/nujen-bot.html",
-   "date": "2026-11-10T02:27:30+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
