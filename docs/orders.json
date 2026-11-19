@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-19T03:49:43.348797+00:00",
+ "updated": "2026-11-19T04:56:05.679944+00:00",
  "orders": [
+  {
+   "id": "47bb200991b9",
+   "title": "Парсер youtube",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529773/parser-youtube.html",
+   "date": "2026-11-19T04:54:19+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «парсер». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "45e53bb1073d",
+   "title": "надо сделать сайт для мебельной компании (Бюджет: 5 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529789/nado-sdelat-sayt-dlya-mebelnoy-kompanii.html",
+   "date": "2026-11-19T04:53:54+00:00",
+   "fit": 67,
+   "price": 5000,
+   "hours": 12,
+   "budget": "5 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~5 000 ₽"
+  },
+  {
+   "id": "c13d1c02eb1a",
+   "title": "Диагностика YML-фида: нет показов в Поиске по товарам Яндекса",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529776/diagnostika-yml-fida-net-pokazov-v-poiske-po-tovaram-yandeksa.html",
+   "date": "2026-11-19T04:43:47+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "ada8360509ee",
    "title": "Заменить плагины поиска и фильтрации на WP WooComerce",
@@ -2364,42 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «лендинг». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "4ab6575fc144",
-   "title": "Сделать уменьшенный магазин-витрину",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528735/sdelat-umenshennyiy-magazin-vitrinu.html",
-   "date": "2026-11-10T11:08:27+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «woocommerce». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "4d20a3c7bfb3",
-   "title": "Доработка фирменного стиля и брендбука",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528733/dorabotka-firmennogo-stilya-i-brendbuka.html",
-   "date": "2026-11-10T10:55:11+00:00",
-   "fit": 91,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «брендбук, лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "f45447c7f751",
-   "title": "Тестирование Python LLM-парсера и обработки данных (Бюджет: 5 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528727/testirovanie-python-llm-parsera-i-obrabotki-dannyih.html",
-   "date": "2026-11-10T10:56:39+00:00",
-   "fit": 89,
-   "price": 5000,
-   "hours": 8,
-   "budget": "5 000 ₽",
-   "why": "Парсер / автоматизация: совпало «python, парсер». Бюджет клиента ~5 000 ₽"
   }
  ]
 }
