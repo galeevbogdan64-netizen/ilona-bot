@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-20T04:53:13.345046+00:00",
+ "updated": "2026-11-20T05:55:57.703373+00:00",
  "orders": [
+  {
+   "id": "375962c1cd4f",
+   "title": "Миграция сайта с Joomla 1.5 на WordPress (сохранение SEO) + настройка PHP (Бюджет: 15 000 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529903/migratsiya-sayta-s-joomla-15-na-wordpress-sohranenie-seo--nastroyka-php.html",
+   "date": "2026-11-20T04:58:46+00:00",
+   "fit": 89,
+   "price": 14000,
+   "hours": 12,
+   "budget": "15 000 ₽",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет клиента ~15 000 ₽"
+  },
+  {
+   "id": "8247e0edd4bb",
+   "title": "Редизайн инетрнет магазина телевизоров (Бюджет: 15 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529901/redizayn-inetrnet-magazina-televizorov.html",
+   "date": "2026-11-20T04:55:18+00:00",
+   "fit": 69,
+   "price": 14000,
+   "hours": 6,
+   "budget": "15 000 ₽",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~15 000 ₽"
+  },
+  {
+   "id": "095873e78382",
+   "title": "Разработка ИИ-сист анализа проектной документации и расчёта стоимости материалов по ценам ЭТМ",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529906/razrabotka-ii-sist-analiza-proektnoy-dokumentatsii-i-raschta-stoimosti-materialov-po-tsenam-etm.html",
+   "date": "2026-11-20T04:55:06+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "43520d238495",
+   "title": "Редизайн и модернизация главной страницы",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529899/redizayn-i-modernizatsiya-glavnoy-stranitsyi-.html",
+   "date": "2026-11-20T04:54:17+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "20fa7063c18d",
    "title": "Разработка чат-ботов",
@@ -2352,54 +2400,6 @@
    "hours": 6,
    "budget": "",
    "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "0fa02e5526ff",
-   "title": "Обложка для профиля фрилансера на FL.ru (ПК 1940×400 + мобильная 900×300) (Бюджет: 2 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528784/oblojka-dlya-profilya-frilansera-na-flru-pk-1940400--mobilnaya-900300.html",
-   "date": "2026-11-10T17:41:28+00:00",
-   "fit": 56,
-   "price": 3000,
-   "hours": 8,
-   "budget": "2 000 ₽",
-   "why": "Парсер / автоматизация: совпало «автоматизац, интеграц, парсинг». Бюджет клиента ~2 000 ₽"
-  },
-  {
-   "id": "a1bd65cfbf67",
-   "title": "Верстка макетов для типографии",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528779/verstka-maketov-dlya-tipografii.html",
-   "date": "2026-11-10T15:52:02+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "fc5d58df7b46",
-   "title": "Обновление дизайна сайта",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528778/obnovlenie-dizayna-sayta.html",
-   "date": "2026-11-10T15:51:56+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "6577acc99d0a",
-   "title": "Вёрстка сайта по готовому дизайну на WordPress: 9 страниц, ACF, PageSpeed",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528769/vrstka-sayta-po-gotovomu-dizaynu-na-wordpress-9-stranits-acf-pagespeed.html",
-   "date": "2026-11-10T15:07:46+00:00",
-   "fit": 97,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «wordpress, вёрстк, сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
