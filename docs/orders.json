@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-20T09:36:22.246916+00:00",
+ "updated": "2026-11-20T10:36:16.523126+00:00",
  "orders": [
+  {
+   "id": "99a50a20b104",
+   "title": "Информационный сайт на Wordpress",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529945/informatsionnyiy-sayt-na-wordpress.html",
+   "date": "2026-11-20T10:32:48+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "beb476d59797",
+   "title": "Обзвон клиентской базы (Бюджет: 18 000 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529905/obzvon-klientskoy-bazyi.html",
+   "date": "2026-11-20T02:27:52+00:00",
+   "fit": 57,
+   "price": 17000,
+   "hours": 8,
+   "budget": "18 000 ₽",
+   "why": "Парсер / автоматизация: совпало «скрипт». Бюджет клиента ~18 000 ₽"
+  },
   {
    "id": "218d60836599",
    "title": "Нужен консольный торговый бот на Python (без графического интерфейса)",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "e33aead72324",
-   "title": "WordPress-разработчик: воссоздать 2 сайта жилых комплексов (каталог квартир, формы, карта)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528869/wordpress-razrabotchik-vossozdat-2-sayta-jilyih-kompleksov-katalog-kvartir-formyi-karta.html",
-   "date": "2026-11-11T10:40:48+00:00",
-   "fit": 89,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "462b04a4f7e6",
-   "title": "Разработка схемы и трассировка 4-слойной платы под ESP32-P4 (EasyEDA, Gerber + BOM + CPL для JLCPCB)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528865/razrabotka-shemyi-i-trassirovka-4-sloynoy-platyi-pod-esp32-p4-easyeda-gerber--bom--cpl-dlya-jlcpcb.html",
-   "date": "2026-11-11T10:28:24+00:00",
-   "fit": 57,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
   }
  ]
 }
