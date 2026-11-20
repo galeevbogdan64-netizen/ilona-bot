@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-20T14:48:21.458370+00:00",
+ "updated": "2026-11-20T15:50:38.868682+00:00",
  "orders": [
+  {
+   "id": "39bde41321df",
+   "title": "Доработка сайта на Wordpress",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529970/dorabotka-sayta-na-wordpress.html",
+   "date": "2026-11-20T14:00:02+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "da85dc62656e",
+   "title": "Ищу специалиста для SEO оптимизации сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529982/ischu-spetsialista-dlya-seo-optimizatsii-sayta-.html",
+   "date": "2026-11-20T15:26:25+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "5682759b06c4",
+   "title": "Верстка книги для ridero",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529969/verstka-knigi-dlya-ridero-.html",
+   "date": "2026-11-20T13:57:26+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "96e7537f982c",
    "title": "Дизайн 3 акционных баннеров для интернет-магазина (для всех)",
@@ -2364,42 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «одностраничн, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "cbe6b9d39ea9",
-   "title": "Автоматизация Wb и Ozon с ИИ (готовое или разработка)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528905/avtomatizatsiya-wb-i-ozon-s-ii-gotovoe-ili-razrabotka-.html",
-   "date": "2026-11-11T18:49:10+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "a7ceccbec5ea",
-   "title": "Разработка Telegram Mini App для обработки фото и видео с пресетами под ключ (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528888/razrabotka-telegram-mini-app-dlya-obrabotki-foto-i-video-s-presetami-pod-klyuch.html",
-   "date": "2026-11-11T13:15:42+00:00",
-   "fit": 67,
-   "price": 21000,
-   "hours": 14,
-   "budget": "",
-   "why": "Telegram-бот: совпало «mini app». Бюджет не указан — цена по ставке, ~14 ч"
-  },
-  {
-   "id": "7b7c34f5f860",
-   "title": "Нужен лендинг под Web3 продукт (недорого) (Бюджет: 20 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528875/nujen-lending-pod-web3-produkt-nedorogo.html",
-   "date": "2026-11-11T12:29:11+00:00",
-   "fit": 97,
-   "price": 19000,
-   "hours": 12,
-   "budget": "20 000 ₽",
-   "why": "Сайт / лендинг: совпало «верстк, лендинг, одностраничн, сайт». Бюджет клиента ~20 000 ₽"
   }
  ]
 }
