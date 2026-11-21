@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-21T05:49:06.210397+00:00",
+ "updated": "2026-11-21T06:55:59.657275+00:00",
  "orders": [
+  {
+   "id": "8600354d45ba",
+   "title": "Разработка умного AI-менеджера продаж для Авито (интеграция API) (Бюджет: 80 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530009/razrabotka-umnogo-ai-menedjera-prodaj-dlya-avito-integratsiya-api.html",
+   "date": "2026-11-21T06:03:59+00:00",
+   "fit": 89,
+   "price": 76000,
+   "hours": 8,
+   "budget": "80 000 ₽",
+   "why": "Парсер / автоматизация: совпало «api, интеграц». Бюджет клиента ~80 000 ₽"
+  },
+  {
+   "id": "e9706adbc189",
+   "title": "Сделать интернет магазин",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529989/sdelat-internet-magazin-.html",
+   "date": "2026-11-21T06:19:36+00:00",
+   "fit": 69,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "9557b4f40f26",
+   "title": "парсинг сайта (Бюджет: 3 600 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530012/parsing-sayta-.html",
+   "date": "2026-11-21T06:13:33+00:00",
+   "fit": 67,
+   "price": 5000,
+   "hours": 12,
+   "budget": "5 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~5 000 ₽"
+  },
+  {
+   "id": "e105a8492065",
+   "title": "создать сайт / smm панель",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5529994/sozdat-sayt---smm-panel.html",
+   "date": "2026-11-21T06:05:56+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "6fbb768e1d76",
+   "title": "Работа с сайтом Taptop",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530003/rabota-s-saytom-taptop.html",
+   "date": "2026-11-21T06:14:49+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "132657532a1f",
+   "title": "Сайт для продажи аккаунтов и игровых валют",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530013/sayt-dlya-prodaji-akkauntov-i-igrovyih-valyut.html",
+   "date": "2026-11-21T06:05:11+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "39bde41321df",
    "title": "Доработка сайта на Wordpress",
@@ -2328,78 +2400,6 @@
    "hours": 6,
    "budget": "177 726 ₽",
    "why": "Логотип / фирменный стиль: совпало «лого, логотип, фирменный стиль». Бюджет клиента ~177 726 ₽"
-  },
-  {
-   "id": "8f65c37249cd",
-   "title": "Сделать скрип по АРИ",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528939/sdelat-skrip-po-ari.html",
-   "date": "2026-11-12T06:05:10+00:00",
-   "fit": 69,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «api, скрипт». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "daf1d875f181",
-   "title": "Автоматизация действий в браузере",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528937/avtomatizatsiya-deystviy-v-brauzere.html",
-   "date": "2026-11-12T05:44:30+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "735e945bd9c3",
-   "title": "верстка сайта (Бюджет: 40 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528928/verstka-sayta.html",
-   "date": "2026-11-12T04:52:04+00:00",
-   "fit": 89,
-   "price": 38000,
-   "hours": 12,
-   "budget": "40 000 ₽",
-   "why": "Сайт / лендинг: совпало «верстк, сайт». Бюджет клиента ~40 000 ₽"
-  },
-  {
-   "id": "076e3a6c919c",
-   "title": "Веб-приложение (Бюджет: 20 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528922/veb-prilojenie.html",
-   "date": "2026-11-12T04:55:48+00:00",
-   "fit": 67,
-   "price": 19000,
-   "hours": 40,
-   "budget": "20 000 ₽",
-   "why": "Приложение: совпало «приложение». Бюджет клиента ~20 000 ₽"
-  },
-  {
-   "id": "999950f05f49",
-   "title": "Маркетолог для первого рекламного теста приложения",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528921/marketolog-dlya-pervogo-reklamnogo-testa-prilojeniya-.html",
-   "date": "2026-11-12T04:47:40+00:00",
-   "fit": 57,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "0821dfe05c97",
-   "title": "Сделать одностраничный сайт услуг по ремонту бытовой и цифровой техники для приема заявок",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528919/sdelat-odnostranichnyiy-sayt-uslug-po-remontu-byitovoy-i-tsifrovoy-tehniki-dlya-priema-zayavok.html",
-   "date": "2026-11-11T20:51:22+00:00",
-   "fit": 89,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «одностраничн, сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
