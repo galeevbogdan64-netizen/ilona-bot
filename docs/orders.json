@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T09:06:02.610300+00:00",
+ "updated": "2026-11-21T10:06:28.650244+00:00",
  "orders": [
+  {
+   "id": "e0e4dc582abb",
+   "title": "Публикация мобильного приложения",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530030/publikatsiya-mobilnogo-prilojeniya.html",
+   "date": "2026-11-21T09:26:07+00:00",
+   "fit": 79,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «мобильн, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "323f1ff2fc1b",
+   "title": "Bнженер-конструктор для разработки электромеханического оборудования (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530036/bnjener-konstruktor-dlya-razrabotki-elektromehanicheskogo-oborudovaniya.html",
+   "date": "2026-11-21T10:03:02+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «интеграц». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "31b125fb5d14",
    "title": "Сайт на WordPress (для всех)",
@@ -2376,30 +2400,6 @@
    "hours": 40,
    "budget": "",
    "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "17b6eb2e351c",
-   "title": "Совместная таблица учёта заявок и затрат по АЗС",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528975/sovmestnaya-tablitsa-uchta-zayavok-i-zatrat-po-azs.html",
-   "date": "2026-11-12T10:21:41+00:00",
-   "fit": 57,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «google таблиц». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "30edb70fc9d1",
-   "title": "Закрытое тестирование 4 Android-приложений на 12 устройствах, 14 дней (Бюджет: 5 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528963/zakryitoe-testirovanie-4-android-prilojeniy-na-12-ustroystvah-14-dney.html",
-   "date": "2026-11-12T08:43:19+00:00",
-   "fit": 67,
-   "price": 5000,
-   "hours": 40,
-   "budget": "5 000 ₽",
-   "why": "Приложение: совпало «android». Бюджет клиента ~5 000 ₽"
   }
  ]
 }
