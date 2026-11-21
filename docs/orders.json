@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T11:05:46.216128+00:00",
+ "updated": "2026-11-21T12:00:21.092675+00:00",
  "orders": [
+  {
+   "id": "801a44caaf46",
+   "title": "Организация нетривиального конкурса-розыгрыша",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530046/organizatsiya-netrivialnogo-konkursa-rozyigryisha-.html",
+   "date": "2026-11-21T11:27:58+00:00",
+   "fit": 57,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "7f5acaa5e8ba",
+   "title": "Инженер-конструктор для разработки электромеханического оборудования (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530036/injener-konstruktor-dlya-razrabotki-elektromehanicheskogo-oborudovaniya.html",
+   "date": "2026-11-21T10:03:02+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «интеграц». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "e0e4dc582abb",
    "title": "Публикация мобильного приложения",
@@ -2376,30 +2400,6 @@
    "hours": 6,
    "budget": "10 000 ₽",
    "why": "Логотип / фирменный стиль: совпало «лого». Бюджет клиента ~10 000 ₽"
-  },
-  {
-   "id": "6a490e4fb5be",
-   "title": "Техническое задание на разработку визитки для автосервиса",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529001/tehnicheskoe-zadanie-na-razrabotku-vizitki-dlya-avtoservisa.html",
-   "date": "2026-11-12T14:05:26+00:00",
-   "fit": 57,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "68d3d8976ab1",
-   "title": "Разработка приложения для ПК, на базе GStreamer",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5528994/razrabotka-prilojeniya-dlya-pk-na-baze-gstreamer.html",
-   "date": "2026-11-12T12:50:44+00:00",
-   "fit": 57,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
   }
  ]
 }
