@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-22T05:37:23.973029+00:00",
+ "updated": "2026-11-22T06:35:42.893933+00:00",
  "orders": [
+  {
+   "id": "234be6776ca3",
+   "title": "Node.js разработчик для сайта аренды жилья (Бюджет: 70 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530058/nodejs-razrabotchik-dlya-sayta-arendyi-jilya-.html",
+   "date": "2026-11-22T06:05:52+00:00",
+   "fit": 97,
+   "price": 66500,
+   "hours": 12,
+   "budget": "70 000 ₽",
+   "why": "Сайт / лендинг: совпало «css, html, вёрстк, сайт». Бюджет клиента ~70 000 ₽"
+  },
+  {
+   "id": "627471d3ca95",
+   "title": "Написать чат-бот для телеграмм-канала",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530061/napisat-chat-bot-dlya-telegramm-kanala.html",
+   "date": "2026-11-22T06:25:47+00:00",
+   "fit": 89,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «бот для телеграм, чат-бот». Бюджет не указан — цена по ставке, ~14 ч"
+  },
+  {
+   "id": "8af7d2e63020",
+   "title": "Обеспечение безопасности и стабильности Telegram-бота",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530091/obespechenie-bezopasnosti-i-stabilnosti-telegram-bota.html",
+   "date": "2026-11-22T06:14:59+00:00",
+   "fit": 67,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «telegram-бот». Бюджет не указан — цена по ставке, ~14 ч"
+  },
+  {
+   "id": "a27f556a68fc",
+   "title": "Настройка рассылок в мессенджерах 100+ сообщений в день",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530076/nastroyka-rassyilok-v-messendjerah-100-soobscheniy-v-den.html",
+   "date": "2026-11-22T06:18:43+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "20ea605f59a6",
    "title": "Парсинг контактов",
@@ -2352,54 +2400,6 @@
    "hours": 40,
    "budget": "",
    "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "5f52aeaaa17b",
-   "title": "Редизайн сайта: БАДы",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529020/redizayn-sayta-badyi.html",
-   "date": "2026-11-12T20:57:17+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "436a495296db",
-   "title": "Исследование рекуррентных Transformer-энкодеров для текстовых эмбеддингов (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529046/issledovanie-rekurrentnyih-transformer-enkoderov-dlya-tekstovyih-embeddingov.html",
-   "date": "2026-11-12T20:34:13+00:00",
-   "fit": 57,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «python». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "ac5c282863f8",
-   "title": "Сео продвижение",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529030/seo-prodvijenie-.html",
-   "date": "2026-11-12T18:21:22+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "d7917756c59f",
-   "title": "PHP-разработчик (Laravel) / Backend-разработчик — интеграции и парсеры",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529023/php-razrabotchik-laravel---backend-razrabotchik--integratsii-i-parseryi.html",
-   "date": "2026-11-12T17:34:52+00:00",
-   "fit": 89,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «интеграц, парсер». Бюджет не указан — цена по ставке, ~8 ч"
   }
  ]
 }
