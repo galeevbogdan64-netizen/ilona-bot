@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T08:44:18.846265+00:00",
+ "updated": "2026-11-22T09:41:53.513401+00:00",
  "orders": [
+  {
+   "id": "394817175318",
+   "title": "Доработка сайта на WordPress: заявки с формы и кнопка на мобильном",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530107/dorabotka-sayta-na-wordpress-zayavki-s-formyi-i-knopka-na-mobilnom.html",
+   "date": "2026-11-22T09:23:02+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "b57921e540f2",
+   "title": "Комплексное восстановление сайта, удаление вирусов и устранение технических ошибок",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530103/kompleksnoe-vosstanovlenie-sayta-udalenie-virusov-i-ustranenie-tehnicheskih-oshibok.html",
+   "date": "2026-11-22T08:51:16+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "eb62121dbc7d",
    "title": "Нужен сайт для проведения соревнований",
@@ -2376,30 +2400,6 @@
    "hours": 40,
    "budget": "",
    "why": "Приложение: совпало «android, flutter, ios, react native». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "8db814051cbe",
-   "title": "Создание логотипа.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529061/sozdanie-logotipa.html",
-   "date": "2026-11-13T06:06:27+00:00",
-   "fit": 89,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "02213fd514a6",
-   "title": "Парсинг групп телеграм.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529051/parsing-grupp-telegram.html",
-   "date": "2026-11-13T06:08:28+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
   }
  ]
 }
