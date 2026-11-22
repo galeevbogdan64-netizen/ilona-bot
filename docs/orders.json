@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T12:25:55.081566+00:00",
+ "updated": "2026-11-22T13:38:41.704733+00:00",
  "orders": [
+  {
+   "id": "6abbb15ea590",
+   "title": "Дизайнер лендингов",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530111/dizayner-lendingov.html",
+   "date": "2026-11-22T12:52:24+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «лендинг, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "952d78ed1f9b",
+   "title": "Парсинг",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530117/parsing.html",
+   "date": "2026-11-22T12:36:50+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "394817175318",
    "title": "Доработка сайта на WordPress: заявки с формы и кнопка на мобильном",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "08b3dd835edd",
-   "title": "Сайт для отеля",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529068/sayt-dlya-otelya.html",
-   "date": "2026-11-13T06:47:21+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "00f43ff210ee",
-   "title": "Разработка коммерческого сетевого сервиса (Приложение + Сервер + Админ-панель) под ключ (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529062/razrabotka-kommercheskogo-setevogo-servisa-prilojenie--server--admin-panel-pod-klyuch.html",
-   "date": "2026-11-13T06:07:56+00:00",
-   "fit": 97,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «android, flutter, ios, react native». Бюджет не указан — цена по ставке, ~40 ч"
   }
  ]
 }
