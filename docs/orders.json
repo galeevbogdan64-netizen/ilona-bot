@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-23T03:55:04.638388+00:00",
+ "updated": "2026-11-23T05:08:38.788879+00:00",
  "orders": [
+  {
+   "id": "e003d71d132d",
+   "title": "Верстка сайта на Фигме",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530162/verstka-sayta-na-figme-.html",
+   "date": "2026-11-23T04:51:29+00:00",
+   "fit": 97,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «верстк, лендинг, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "7f6a3784a29f",
+   "title": "Нужен разработчик собственного скрипта Чита для игры",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530157/nujen-razrabotchik-sobstvennogo-skripta-chita-dlya-igryi-.html",
+   "date": "2026-11-23T04:52:10+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «скрипт». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "a68b6bd5ac0a",
+   "title": "Настроить контекстную рекламу",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530167/nastroit-kontekstnuyu-reklamu.html",
+   "date": "2026-11-23T04:54:49+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "217993fe5807",
    "title": "Автоматизация пабг мобайл (Бюджет: 15 000 ₽)",
@@ -2364,42 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «лендинг, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "552ccba1a13d",
-   "title": "Seo оптимизация сайта",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529093/seo-optimizatsiya-sayta.html",
-   "date": "2026-11-13T11:01:53+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "874aaa7be18b",
-   "title": "Проверка качества Python-сервиса интеграции с Telegram (Бюджет: 5 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529078/proverka-kachestva-python-servisa-integratsii-s-telegram.html",
-   "date": "2026-11-13T08:17:31+00:00",
-   "fit": 89,
-   "price": 5000,
-   "hours": 8,
-   "budget": "5 000 ₽",
-   "why": "Парсер / автоматизация: совпало «python, интеграц». Бюджет клиента ~5 000 ₽"
-  },
-  {
-   "id": "bf1788f37677",
-   "title": "Разработка логотипа для нового федерального бренда",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529086/razrabotka-logotipa-dlya-novogo-federalnogo-brenda-.html",
-   "date": "2026-11-13T09:18:35+00:00",
-   "fit": 89,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
   }
  ]
 }
