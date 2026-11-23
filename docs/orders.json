@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-23T11:52:31.428848+00:00",
+ "updated": "2026-11-23T13:00:38.148489+00:00",
  "orders": [
+  {
+   "id": "660a49bf7f5b",
+   "title": "Разработка мобильного приложения",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530217/razrabotka-mobilnogo-prilojeniya.html",
+   "date": "2026-11-23T11:20:29+00:00",
+   "fit": 97,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «android, ios, мобильн, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "2ba4316ecbcc",
+   "title": "Ревью, тестирование и запуск скрипта печати КИЗ (Python + принтеры TSC TE310)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530222/revyu-testirovanie-i-zapusk-skripta-pechati-kiz-python--printeryi-tsc-te310.html",
+   "date": "2026-11-23T11:23:47+00:00",
+   "fit": 89,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «python, скрипт». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "da10766d702e",
+   "title": "SEO-оптимизация сайта.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530206/seo-optimizatsiya-sayta.html",
+   "date": "2026-11-23T10:27:04+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "ce1a3219adc5",
+   "title": "Дизайнер машинной вышивки",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530227/dizayner-mashinnoy-vyishivki.html",
+   "date": "2026-11-23T11:51:42+00:00",
+   "fit": 69,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "dfa4915b7e68",
+   "title": "сделать дизайн интернет-магазина на cms Битрикс",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530226/sdelat-dizayn-internet-magazina-na-cms-bitriks.html",
+   "date": "2026-11-23T11:41:23+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "6468b9492536",
+   "title": "Нужен экспертный SEO-аудит сайта фотографа в СПб + работа по продвижению ресурса",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530215/nujen-ekspertnyiy-seo-audit-sayta-fotografa-v-spb--rabota-po-prodvijeniyu-resursa.html",
+   "date": "2026-11-23T11:20:13+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "3abb249ff325",
+   "title": "Перенос сайта (PHP 8.3 + SQLite) на Timeweb + SEO-настройки и почта (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530212/perenos-sayta-php-83--sqlite-na-timeweb--seo-nastroyki-i-pochta.html",
+   "date": "2026-11-23T10:42:40+00:00",
+   "fit": 67,
+   "price": 24000,
+   "hours": 12,
+   "budget": "25 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~25 000 ₽"
+  },
+  {
+   "id": "8e6c154f6255",
+   "title": "Переводчик текстов | Русский-Английский",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530204/perevodchik-tekstov--russkiy-angliyskiy.html",
+   "date": "2026-11-23T09:47:57+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «лендинг». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "dabdb8640c29",
    "title": "Нужно сделать сайт для бутика (Бюджет: 50 000 ₽)",
@@ -2304,102 +2400,6 @@
    "hours": 8,
    "budget": "5 000 ₽",
    "why": "Парсер / автоматизация: совпало «python, скрипт». Бюджет клиента ~5 000 ₽"
-  },
-  {
-   "id": "c06e71442b85",
-   "title": "Разработка высоконагруженного шлюза и системы автоматизации рассылок для мессенджеров (Node.js/Go)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529170/razrabotka-vyisokonagrujennogo-shlyuza-i-sistemyi-avtomatizatsii-rassyilok-dlya-messendjerov-nodejs-go.html",
-   "date": "2026-11-14T06:26:45+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "b5fa578de4a3",
-   "title": "Необходимо переделать сайт.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529151/neobhodimo-peredelat-sayt-.html",
-   "date": "2026-11-14T06:13:04+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "a3e63794b560",
-   "title": "Нужно прокачать страницу в соцсети по продажам мобильных бань. Что бы увеличить продажи.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529154/nujno-prokachat-stranitsu-v-sotsseti-po-prodajam-mobilnyih-ban-chto-byi-uvelichit-prodaji.html",
-   "date": "2026-11-14T06:10:04+00:00",
-   "fit": 67,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "81fb766492d1",
-   "title": "Копирайтер для написания текстов на сайт",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529157/kopirayter-dlya-napisaniya-tekstov-na-sayt.html",
-   "date": "2026-11-14T06:09:25+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "e75f5126ea35",
-   "title": "Каталог на продукции в формате А4 для производителя САнтехники и мебели",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529140/katalog-na-produktsii-v-formate-a4-dlya-proizvoditelya-santehniki-i-mebeli-.html",
-   "date": "2026-11-14T06:10:09+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «верстк». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "a1297e8f02ca",
-   "title": "Дизайн лэндинга (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529133/dizayn-lendinga.html",
-   "date": "2026-11-13T21:00:20+00:00",
-   "fit": 57,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «айдентик». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "780070c0f457",
-   "title": "SEO консультация (Бюджет: 3 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529144/seo-konsultatsiya.html",
-   "date": "2026-11-13T18:58:06+00:00",
-   "fit": 57,
-   "price": 3000,
-   "hours": 12,
-   "budget": "3 000 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~3 000 ₽"
-  },
-  {
-   "id": "6b56f9accb77",
-   "title": "Ищем исполнителя для создания сайта строительных услуг",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529125/ischem-ispolnitelya-dlya-sozdaniya-sayta-stroitelnyih-uslug.html",
-   "date": "2026-11-13T15:58:59+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
