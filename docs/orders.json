@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-23T18:51:59.957883+00:00",
+ "updated": "2026-11-23T19:57:09.345586+00:00",
  "orders": [
+  {
+   "id": "d6dc542e50d0",
+   "title": "Создание многостраничного сайта спортивной федерации",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530272/sozdanie-mnogostranichnogo-sayta-sportivnoy-federatsii-.html",
+   "date": "2026-11-23T19:46:19+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "1fa8f90c6c10",
+   "title": "Заменить в модуле базы с геоопределением",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530270/zamenit-v-module-bazyi-s-geoopredeleniem.html",
+   "date": "2026-11-23T19:03:10+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "2574bbf07e3e",
    "title": "Требуется Fullstack-разработчик (FastAPI + Flutter) для расширения функционала приложения",
@@ -2376,30 +2400,6 @@
    "hours": 40,
    "budget": "",
    "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "06dc05f38264",
-   "title": "Нужно создать телеграмм бота с ИИ",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529208/nujno-sozdat-telegramm-bota-s-ii-.html",
-   "date": "2026-11-14T12:16:58+00:00",
-   "fit": 57,
-   "price": 21000,
-   "hours": 14,
-   "budget": "",
-   "why": "Telegram-бот: совпало «telegram-бот». Бюджет не указан — цена по ставке, ~14 ч"
-  },
-  {
-   "id": "4c1062d4ab22",
-   "title": "Дизайн лендинга в фигме. (Бюджет: 50 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529178/dizayn-lendinga-v-figme.html",
-   "date": "2026-11-14T08:18:23+00:00",
-   "fit": 91,
-   "price": 47500,
-   "hours": 12,
-   "budget": "50 000 ₽",
-   "why": "Сайт / лендинг: совпало «лендинг, одностраничн, сайт». Бюджет клиента ~50 000 ₽"
   }
  ]
 }
