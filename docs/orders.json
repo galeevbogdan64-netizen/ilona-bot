@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-23T16:54:23.281573+00:00",
+ "updated": "2026-11-23T17:52:58.016288+00:00",
  "orders": [
+  {
+   "id": "2574bbf07e3e",
+   "title": "Требуется Fullstack-разработчик (FastAPI + Flutter) для расширения функционала приложения",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530261/trebuetsya-fullstack-razrabotchik-fastapi--flutter-dlya-rasshireniya-funktsionala-prilojeniya.html",
+   "date": "2026-11-23T16:53:45+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «api». Бюджет не указан — цена по ставке, ~8 ч"
+  },
   {
    "id": "5fdd17e1a7d4",
    "title": "Перерисовать логотип из jpeg в вектор",
@@ -2388,18 +2400,6 @@
    "hours": 12,
    "budget": "50 000 ₽",
    "why": "Сайт / лендинг: совпало «лендинг, одностраничн, сайт». Бюджет клиента ~50 000 ₽"
-  },
-  {
-   "id": "be57ec97ca19",
-   "title": "Ищем специалиста по парсингу и техническому аудиту",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529180/ischem-spetsialista-po-parsingu-i-tehnicheskomu-auditu.html",
-   "date": "2026-11-14T08:21:30+00:00",
-   "fit": 79,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «парсер, парсинг». Бюджет не указан — цена по ставке, ~8 ч"
   }
  ]
 }
