@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-23T14:34:54.131925+00:00",
+ "updated": "2026-11-23T15:42:22.133119+00:00",
  "orders": [
+  {
+   "id": "5fdd17e1a7d4",
+   "title": "Перерисовать логотип из jpeg в вектор",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530245/pererisovat-logotip-iz-jpeg-v-vektor.html",
+   "date": "2026-11-23T14:01:54+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "8bb6673b8a20",
+   "title": "Мне нужен бот/сайт, подойдет бот в тг",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530251/mne-nujen-bot-sayt-podoydet-bot-v-tg.html",
+   "date": "2026-11-23T15:13:54+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "9c01a9fd7ff7",
+   "title": "SEO-оптимизация сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530242/seo-optimizatsiya-sayta.html",
+   "date": "2026-11-23T13:31:48+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "2a8dd04d9da9",
+   "title": "Озвучка историй машин для Tokyo Race: JDM Legends",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530250/ozvuchka-istoriy-mashin-dlya-tokyo-race-jdm-legends.html",
+   "date": "2026-11-23T14:58:23+00:00",
+   "fit": 57,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «мобильн». Бюджет не указан — цена по ставке, ~40 ч"
+  },
   {
    "id": "660a49bf7f5b",
    "title": "Разработка мобильного приложения",
@@ -2352,54 +2400,6 @@
    "hours": 8,
    "budget": "",
    "why": "Парсер / автоматизация: совпало «парсер, парсинг». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "c69eebf64089",
-   "title": "создать объявления в Яндекс Директе, настроить рекламные кампании",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529177/sozdat-obyyavleniya-v-yandeks-direkte-nastroit-reklamnyie-kampanii.html",
-   "date": "2026-11-14T08:01:07+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "22372817da55",
-   "title": "Дизайн логотипа и айдентики",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529153/dizayn-logotipa-i-aydentiki.html",
-   "date": "2026-11-14T06:03:39+00:00",
-   "fit": 97,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «айдентик, лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "014b1b65649f",
-   "title": "Отредактировать логотип",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529163/otredaktirovat-logotip.html",
-   "date": "2026-11-14T04:49:37+00:00",
-   "fit": 89,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "76c60e39e18c",
-   "title": "Доработка Python-бота (PyRakBR) для Black Russia: работа с пакетами данных, авто-капча и навигация. (Бюджет: 5 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529132/dorabotka-python-bota-pyrakbr-dlya-black-russia-rabota-s-paketami-dannyih-avto-kapcha-i-navigatsiya.html",
-   "date": "2026-11-14T06:03:20+00:00",
-   "fit": 79,
-   "price": 5000,
-   "hours": 8,
-   "budget": "5 000 ₽",
-   "why": "Парсер / автоматизация: совпало «python, скрипт». Бюджет клиента ~5 000 ₽"
   }
  ]
 }
