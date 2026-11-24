@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-24T19:23:01.231474+00:00",
+ "updated": "2026-11-24T20:28:41.598837+00:00",
  "orders": [
+  {
+   "id": "f9b52e32f53a",
+   "title": "Автоматизация еженедельной финансовой отчетности и Unit-экономики (WB + Ozon API) (Бюджет: 25 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530385/avtomatizatsiya-ejenedelnoy-finansovoy-otchetnosti-i-unit-ekonomiki-wb--ozon-api.html",
+   "date": "2026-11-24T17:43:11+00:00",
+   "fit": 89,
+   "price": 24000,
+   "hours": 8,
+   "budget": "25 000 ₽",
+   "why": "Парсер / автоматизация: совпало «api, автоматизац». Бюджет клиента ~25 000 ₽"
+  },
+  {
+   "id": "714778001ef7",
+   "title": "Парсер WB → Kaspi с созданием карточек, автообновлением цен и остатков (Бюджет: 20 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530392/parser-wb--kaspi-s-sozdaniem-kartochek-avtoobnovleniem-tsen-i-ostatkov.html",
+   "date": "2026-11-24T20:03:45+00:00",
+   "fit": 67,
+   "price": 19000,
+   "hours": 8,
+   "budget": "20 000 ₽",
+   "why": "Парсер / автоматизация: совпало «парсер». Бюджет клиента ~20 000 ₽"
+  },
+  {
+   "id": "7b138ef19561",
+   "title": "Создать сайт",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530405/sozdat-sayt.html",
+   "date": "2026-11-24T19:58:18+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "d03cd4842dca",
    "title": "Размещение сайта на облачном сервере",
@@ -2364,42 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "13a268dfed7a",
-   "title": "Сайт для агентства недвижимости (Бюджет: 5 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529292/sayt-dlya-agentstva-nedvijimosti-.html",
-   "date": "2026-11-15T09:14:39+00:00",
-   "fit": 67,
-   "price": 5000,
-   "hours": 12,
-   "budget": "5 000 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~5 000 ₽"
-  },
-  {
-   "id": "bf32da25f638",
-   "title": "Интеграция AI через API",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529284/integratsiya-ai-cherez-api.html",
-   "date": "2026-11-15T07:26:41+00:00",
-   "fit": 89,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «api, интеграц». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "6a23ab2aac2f",
-   "title": "Запустить сайт или понять, почему не работает (Бюджет: 80 520 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529286/zapustit-sayt-ili-ponyat-pochemu-ne-rabotaet.html",
-   "date": "2026-11-15T08:01:44+00:00",
-   "fit": 67,
-   "price": 76500,
-   "hours": 12,
-   "budget": "80 520 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~80 520 ₽"
   }
  ]
 }
