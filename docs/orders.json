@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-25T08:42:54.517833+00:00",
+ "updated": "2026-11-25T10:02:20.546974+00:00",
  "orders": [
+  {
+   "id": "581859b1b624",
+   "title": "«интеграция AI-примерки по фото, Tilda, Telegram-бот, генерация изображений»",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530455/integratsiya-ai-primerki-po-foto-tilda-telegram-bot-generatsiya-izobrajeniy.html",
+   "date": "2026-11-25T09:56:13+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «tilda, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "2ab618f23742",
+   "title": "Сайт под ключ (мед/тематика)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530449/sayt-pod-klyuch-med-tematika.html",
+   "date": "2026-11-25T09:32:37+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "ef21877a6e10",
+   "title": "Сделать простой логотип (Бюджет: 500 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530445/sdelat-prostoy-logotip.html",
+   "date": "2026-11-25T09:08:07+00:00",
+   "fit": 64,
+   "price": 3000,
+   "hours": 6,
+   "budget": "500 ₽",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~500 ₽"
+  },
+  {
+   "id": "c330b6ee3b55",
+   "title": "Нагрузка на сервер",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530451/nagruzka-na-server.html",
+   "date": "2026-11-25T09:57:24+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "71e1b24a8e1d",
    "title": "Доработка логотипа по эскизу и выбранной палитре.",
@@ -2352,54 +2400,6 @@
    "hours": 12,
    "budget": "150 000 ₽",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~150 000 ₽"
-  },
-  {
-   "id": "f1e782126ffb",
-   "title": "Изменить фото на сайте, добавить описание.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529324/izmenit-foto-na-sayte-dobavit-opisanie.html",
-   "date": "2026-11-16T06:12:52+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "7f57eac735c9",
-   "title": "доработка структуры сайта",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529354/dorabotka-strukturyi-sayta.html",
-   "date": "2026-11-16T01:47:59+00:00",
-   "fit": 79,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "553ed339a7bd",
-   "title": "ведение каналов в максе и ТГ, по логопедии",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529341/vedenie-kanalov-v-makse-i-tg-po-logopedii.html",
-   "date": "2026-11-15T20:44:43+00:00",
-   "fit": 67,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "94c2393f8d1e",
-   "title": "Создать сайт для компании",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529339/sozdat-sayt-dlya-kompanii-.html",
-   "date": "2026-11-15T20:44:40+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
