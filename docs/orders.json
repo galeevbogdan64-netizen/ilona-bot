@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-25T07:16:56.818538+00:00",
+ "updated": "2026-11-25T08:42:54.517833+00:00",
  "orders": [
+  {
+   "id": "71e1b24a8e1d",
+   "title": "Доработка логотипа по эскизу и выбранной палитре.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530434/dorabotka-logotipa-po-eskizu-i-vyibrannoy-palitre.html",
+   "date": "2026-11-25T07:52:35+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "fd47c4f84b0a",
+   "title": "Создание рекламного баннера 820*60 pix",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530436/sozdanie-reklamnogo-bannera-82060-pix.html",
+   "date": "2026-11-25T07:59:38+00:00",
+   "fit": 69,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "9d57160d1370",
+   "title": "Сайт для барбершопа с онлайн-записью и админкой (Бюджет: 15 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530440/sayt-dlya-barbershopa-s-onlayn-zapisyu-i-adminkoy.html",
+   "date": "2026-11-25T08:40:25+00:00",
+   "fit": 67,
+   "price": 14000,
+   "hours": 12,
+   "budget": "15 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~15 000 ₽"
+  },
+  {
+   "id": "db01583d56bd",
+   "title": "Ищу GEO специалиста не студию",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530438/ischu-geo-spetsialista-ne-studiyu.html",
+   "date": "2026-11-25T08:35:01+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "5d97616ec6e7",
+   "title": "Создать ии агента в рамках оптимизации работы производства (Бюджет: 20 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530433/sozdat-ii-agenta-v-ramkah-optimizatsii-rabotyi-proizvodstva.html",
+   "date": "2026-11-25T07:50:12+00:00",
+   "fit": 57,
+   "price": 19000,
+   "hours": 8,
+   "budget": "20 000 ₽",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет клиента ~20 000 ₽"
+  },
+  {
+   "id": "db05ac459ce0",
+   "title": "Поиск контактов в продуктовых сетях и алкомаркетах (Бюджет: 50 000 ₽, для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530431/poisk-kontaktov-v-produktovyih-setyah-i-alkomarketah.html",
+   "date": "2026-11-25T07:26:37+00:00",
+   "fit": 57,
+   "price": 47500,
+   "hours": 8,
+   "budget": "50 000 ₽",
+   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет клиента ~50 000 ₽"
+  },
   {
    "id": "a2759b02fb87",
    "title": "Разработка сайта (движок нужно предложить, но ориентир что-то простое в управлении типа тильды)",
@@ -2328,78 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "b9834fcf159d",
-   "title": "Выгрузка остатков товаров и Контрагентов из БУХ в КА",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529349/vyigruzka-ostatkov-tovarov-i-kontragentov-iz-buh-v-ka.html",
-   "date": "2026-11-15T20:48:57+00:00",
-   "fit": 57,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "29a6923c4db1",
-   "title": "Требуется специалист для продвижения проекта",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529334/trebuetsya-spetsialist-dlya-prodvijeniya-proekta.html",
-   "date": "2026-11-15T20:48:08+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "3016e9d1d95b",
-   "title": "fullstack-разработчика на Next.js (middle/senior) на проектную работу",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529338/fullstack-razrabotchika-na-nextjs-middle-senior-na-proektnuyu-rabotu.html",
-   "date": "2026-11-15T20:47:31+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "221116f539c9",
-   "title": "Разработка логотипа (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529345/razrabotka-logotipa.html",
-   "date": "2026-11-15T19:07:01+00:00",
-   "fit": 97,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «айдентик, лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "a432b7a09402",
-   "title": "Оформление соц сетей (Бюджет: 15 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529307/oformlenie-sots-setey.html",
-   "date": "2026-11-15T12:31:51+00:00",
-   "fit": 69,
-   "price": 14000,
-   "hours": 6,
-   "budget": "15 000 ₽",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет клиента ~15 000 ₽"
-  },
-  {
-   "id": "fe2925a6d57f",
-   "title": "нужны консультации и помощь на 1-2 часа загрузить на сервер и запустить, чтобы можно пользоваться.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529304/nujnyi-konsultatsii-i-pomosch--na-1-2-chasa-zagruzit-na-server-i-zapustit-chtobyi-mojno-polzovatsya.html",
-   "date": "2026-11-15T12:02:42+00:00",
-   "fit": 69,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «мобильн, приложение». Бюджет не указан — цена по ставке, ~40 ч"
   }
  ]
 }
