@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T13:56:12.589319+00:00",
+ "updated": "2026-11-25T14:56:37.597014+00:00",
  "orders": [
+  {
+   "id": "a1a997dcf4de",
+   "title": "Разработка логотипа для отраслевого информационного портала",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530509/razrabotka-logotipa-dlya-otraslevogo-informatsionnogo-portala.html",
+   "date": "2026-11-25T14:23:37+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "0df8f9ce6f8e",
+   "title": "Нужно Приложение",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530512/nujno-prilojenie.html",
+   "date": "2026-11-25T14:31:17+00:00",
+   "fit": 67,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
   {
    "id": "68b72c21b3b3",
    "title": "Первичная настройка SEO сайта на вордпресс",
@@ -2376,30 +2400,6 @@
    "hours": 8,
    "budget": "",
    "why": "Парсер / автоматизация: совпало «api, n8n, интеграц». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "76fb3e7994c0",
-   "title": "Готовая система Steam Gift Bot: свои аккаунты, кошельки и API (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529382/gotovaya-sistema-steam-gift-bot-svoi-akkauntyi-koshelki-i-api.html",
-   "date": "2026-11-16T08:52:23+00:00",
-   "fit": 79,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «api, интеграц». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "014b2257026e",
-   "title": "Перенос сайта агентства недвижимости на новую платформу по готовому макету (Бюджет: 60 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529422/perenos-sayta-agentstva-nedvijimosti-na-novuyu-platformu-po-gotovomu-maketu.html",
-   "date": "2026-11-16T11:59:26+00:00",
-   "fit": 79,
-   "price": 57000,
-   "hours": 12,
-   "budget": "60 000 ₽",
-   "why": "Сайт / лендинг: совпало «html, сайт». Бюджет клиента ~60 000 ₽"
   }
  ]
 }
