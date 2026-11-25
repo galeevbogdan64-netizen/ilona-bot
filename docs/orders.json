@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T18:02:24.095089+00:00",
+ "updated": "2026-11-25T19:17:33.497676+00:00",
  "orders": [
+  {
+   "id": "c3392e40b8d7",
+   "title": "WordPress LMS Tutor LMS разработчик",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530540/wordpress-lms-tutor-lms-razrabotchik.html",
+   "date": "2026-11-25T18:59:41+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "a5a44818e1a7",
+   "title": "IT / Crypto юрист: правовой аудит и документы (Terms of Use) для Telegram Mini App (USDT) (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530538/it---crypto-yurist-pravovoy-audit-i-dokumentyi-terms-of-use-dlya-telegram-mini-app-usdt.html",
+   "date": "2026-11-25T18:59:06+00:00",
+   "fit": 67,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «mini app». Бюджет не указан — цена по ставке, ~14 ч"
+  },
   {
    "id": "475fe5e501e4",
    "title": "Выплнить подтверждение регистрацию на сайте",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "1742494c3090",
-   "title": "Создание и ведение рекламной компании Яндекс Директ.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529458/sozdanie-i-vedenie-reklamnoy-kompanii-yandeks-direkt.html",
-   "date": "2026-11-16T15:37:54+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "3ee0e2fbd79a",
-   "title": "3d персонажи (Бюджет: 3 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529455/3d-personaji.html",
-   "date": "2026-11-16T14:58:49+00:00",
-   "fit": 57,
-   "price": 3000,
-   "hours": 12,
-   "budget": "3 000 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~3 000 ₽"
   }
  ]
 }
