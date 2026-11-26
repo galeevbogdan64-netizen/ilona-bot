@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-26T11:59:18.070239+00:00",
+ "updated": "2026-11-26T13:16:15.244051+00:00",
  "orders": [
+  {
+   "id": "e46f0aa497ac",
+   "title": "Парсер для сбора недостающих данных по сертификатам с ресурсов.",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530651/parser-dlya-sbora-nedostayuschih-dannyih-po-sertifikatam-s-resursov.html",
+   "date": "2026-11-26T12:21:48+00:00",
+   "fit": 79,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «парсер, парсинг». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "1ad4fd442943",
+   "title": "SEO-оптимизированный текст для главной страницы небольшого сайта на испанском языке (латам) (Бюджет: 4 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530658/seo-optimizirovannyiy-tekst-dlya-glavnoy-stranitsyi-nebolshogo-sayta-na-ispanskom-yazyike-latam-.html",
+   "date": "2026-11-26T13:10:18+00:00",
+   "fit": 67,
+   "price": 4000,
+   "hours": 12,
+   "budget": "4 000 ₽",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~4 000 ₽"
+  },
+  {
+   "id": "3ab8ac7ce5a1",
+   "title": "Сайт потерял СЕО позиции по всем ключам",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530641/sayt-poteryal-seo-pozitsii-po-vsem-klyucham.html",
+   "date": "2026-11-26T11:14:36+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "37a588999170",
+   "title": "Разработка сервиса для подбора мастеров",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530647/razrabotka-servisa-dlya-podbora-masterov.html",
+   "date": "2026-11-26T12:21:36+00:00",
+   "fit": 57,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «python». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "7383ed079c2f",
+   "title": "Разработка рендеров с интерьерами и окнами",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530657/razrabotka-renderov-s-intererami-i-oknami.html",
+   "date": "2026-11-26T13:03:22+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "e075bd555cf8",
    "title": "логотип",
@@ -2340,66 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «верстк, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "c441c37f6c6c",
-   "title": "Сайт для литературного проекта: короткие новеллы, удобное чтение с телефона, аналитика дочитываний (Бюджет: 6 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529542/sayt-dlya-literaturnogo-proekta-korotkie-novellyi-udobnoe-chtenie-s-telefona-analitika-dochityivaniy.html",
-   "date": "2026-11-17T08:08:47+00:00",
-   "fit": 67,
-   "price": 5500,
-   "hours": 12,
-   "budget": "6 000 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~6 000 ₽"
-  },
-  {
-   "id": "f3cbf0ac068a",
-   "title": "Нужен сайт магазин с одним товаром",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529530/nujen-sayt-magazin-s-odnim-tovarom.html",
-   "date": "2026-11-17T06:14:21+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "3c0095ed59c0",
-   "title": "Автоматизация действий на Pump.fun: регистрация кошельков по почте + автопостинг (Bypass Cloudflare) (Бюджет: 20 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529459/avtomatizatsiya-deystviy-na-pumpfun-registratsiya-koshelkov-po-pochte--avtoposting-bypass-cloudflare.html",
-   "date": "2026-11-17T03:26:32+00:00",
-   "fit": 79,
-   "price": 19000,
-   "hours": 8,
-   "budget": "20 000 ₽",
-   "why": "Парсер / автоматизация: совпало «автоматизац, скрипт». Бюджет клиента ~20 000 ₽"
-  },
-  {
-   "id": "5eded226f7b2",
-   "title": "Веб-игра «Глубина»: рогалик с прокачкой, предметами и Telegram-ботом (Бюджет: 45 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529509/veb-igra-glubina-rogalik-s-prokachkoy-predmetami-i-telegram-botom.html",
-   "date": "2026-11-17T05:02:50+00:00",
-   "fit": 67,
-   "price": 43000,
-   "hours": 14,
-   "budget": "45 000 ₽",
-   "why": "Telegram-бот: совпало «telegram-бот». Бюджет клиента ~45 000 ₽"
-  },
-  {
-   "id": "6c6a7a6c77ae",
-   "title": "Telegram-бот для разбора матчей CS2: статистика, ошибки и советы (Бюджет: 40 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529510/telegram-bot-dlya-razbora-matchey-cs2-statistika-oshibki-i-sovetyi.html",
-   "date": "2026-11-17T05:02:17+00:00",
-   "fit": 67,
-   "price": 38000,
-   "hours": 14,
-   "budget": "40 000 ₽",
-   "why": "Telegram-бот: совпало «telegram-бот». Бюджет клиента ~40 000 ₽"
   }
  ]
 }
