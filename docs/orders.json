@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-26T05:59:03.737559+00:00",
+ "updated": "2026-11-26T07:14:53.600925+00:00",
  "orders": [
+  {
+   "id": "e075bd555cf8",
+   "title": "логотип",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530612/logotip.html",
+   "date": "2026-11-26T07:01:42+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "1608a206465d",
+   "title": "Создать и оформить аккаунты VK, Telegram, Дзен для сайта бьюти-гаджетов",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530608/sozdat-i-oformit-akkauntyi-vk-telegram-dzen-dlya-sayta-byuti-gadjetov.html",
+   "date": "2026-11-26T06:21:05+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "1b95f9fe501b",
    "title": "Разработка сайта-конфигуратора",
@@ -2376,30 +2400,6 @@
    "hours": 14,
    "budget": "40 000 ₽",
    "why": "Telegram-бот: совпало «telegram-бот». Бюджет клиента ~40 000 ₽"
-  },
-  {
-   "id": "5111364a360b",
-   "title": "Telegram-бот для интернет-магазина: каталог, заказы, оплата и админка (Бюджет: 60 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529508/telegram-bot-dlya-internet-magazina-katalog-zakazyi-oplata-i-adminka.html",
-   "date": "2026-11-17T04:54:21+00:00",
-   "fit": 67,
-   "price": 57000,
-   "hours": 12,
-   "budget": "60 000 ₽",
-   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет клиента ~60 000 ₽"
-  },
-  {
-   "id": "8401949f6ae7",
-   "title": "Нужен UX/UI-дизайнер для разбора Telegram mini app",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529504/nujen-ux-ui-dizayner-dlya-razbora-telegram-mini-app.html",
-   "date": "2026-11-17T05:07:05+00:00",
-   "fit": 67,
-   "price": 21000,
-   "hours": 14,
-   "budget": "",
-   "why": "Telegram-бот: совпало «mini app». Бюджет не указан — цена по ставке, ~14 ч"
   }
  ]
 }
