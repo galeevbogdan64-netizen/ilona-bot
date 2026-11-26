@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-26T21:46:48.356215+00:00",
+ "updated": "2026-11-26T22:48:14.118764+00:00",
  "orders": [
+  {
+   "id": "686cddae0c5e",
+   "title": "Доработка сайта интернет-магазина на WebAsyst + Shop-Script (Бюджет: 10 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530698/dorabotka-sayta-internet-magazina-na-webasyst--shop-script.html",
+   "date": "2026-11-26T20:04:38+00:00",
+   "fit": 97,
+   "price": 9500,
+   "hours": 12,
+   "budget": "10 000 ₽",
+   "why": "Сайт / лендинг: совпало «интернет-магазин, лендинг, сайт». Бюджет клиента ~10 000 ₽"
+  },
+  {
+   "id": "da034634ce9b",
+   "title": "Телеграм бот по Гаданиям с платежкой",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530696/telegram-bot-po-gadaniyam-s-platejkoy.html",
+   "date": "2026-11-26T20:06:53+00:00",
+   "fit": 67,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «телеграм бот». Бюджет не указан — цена по ставке, ~14 ч"
+  },
   {
    "id": "09d8753820fc",
    "title": "Создание сайта на Яндекс Бизнесе",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "60ae64c6320b",
-   "title": "Переработать дизайн сайта. Облачное приложение управлением строительства",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529594/pererabotat-dizayn-sayta-oblachnoe-prilojenie-upravleniem-stroitelstva-.html",
-   "date": "2026-11-17T12:56:59+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "47b956ed4154",
-   "title": "Веб-платформа для аналитики трейд-маркетинга и подготовки обучающих материалов с ИИ-агентом (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529553/veb-platforma-dlya-analitiki-treyd-marketinga-i-podgotovki-obuchayuschih-materialov-s-ii-agentom.html",
-   "date": "2026-11-17T10:17:48+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «html». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
