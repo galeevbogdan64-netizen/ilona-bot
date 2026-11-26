@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-26T15:37:34.198753+00:00",
+ "updated": "2026-11-26T16:43:10.164988+00:00",
  "orders": [
+  {
+   "id": "a8de14a47edc",
+   "title": "Дизайн интерфейса мобильного приложения",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530674/dizayn-interfeysa-mobilnogo-prilojeniya.html",
+   "date": "2026-11-26T15:55:45+00:00",
+   "fit": 91,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «android, ios, мобильн». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "0be6f137377c",
+   "title": "Написание текста с СЕО для сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530672/napisanie-teksta-s-seo-dlya-sayta.html",
+   "date": "2026-11-26T15:39:02+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "6e80f871af1c",
    "title": "Sep продвижение сайта ( строительство)",
@@ -2376,30 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "9877f4225945",
-   "title": "Устранить проблемы индексации Google и Яндекс на маркетплейсе с 18 000 товаров (Бюджет: 3 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529605/ustranit-problemyi-indeksatsii-google-i-yandeks-na-marketpleyse-s-18-000-tovarov.html",
-   "date": "2026-11-17T14:18:14+00:00",
-   "fit": 57,
-   "price": 3000,
-   "hours": 12,
-   "budget": "3 000 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~3 000 ₽"
-  },
-  {
-   "id": "104f4090d689",
-   "title": "Поиск и Заключение 100 договоров с Частными Риэлторами (Бюджет: 30 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529601/-poisk-i-zaklyuchenie-100-dogovorov-s-chastnyimi-rieltorami.html",
-   "date": "2026-11-17T13:34:19+00:00",
-   "fit": 57,
-   "price": 28500,
-   "hours": 6,
-   "budget": "30 000 ₽",
-   "why": "Логотип / фирменный стиль: совпало «лого». Бюджет клиента ~30 000 ₽"
   }
  ]
 }
