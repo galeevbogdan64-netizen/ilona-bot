@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T04:43:28.307437+00:00",
+ "updated": "2026-11-27T05:56:49.699977+00:00",
  "orders": [
+  {
+   "id": "5e114362eee5",
+   "title": "Требуется программист - доработка PHP форм обратной связи на 10 сайтах (Бюджет: 250 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530713/trebuetsya-programmist---dorabotka-php-form-obratnoy-svyazi-na-10-saytah.html",
+   "date": "2026-11-27T04:57:15+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "eb2f5044995a",
    "title": "Внести изменения в интернет магазин на CMS Bitrix",
@@ -2388,18 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "3fdcfca0dfbb",
-   "title": "восстановить резервную копию сайта на бегет",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529593/vosstanovit-rezervnuyu-kopiyu-sayta-na-beget.html",
-   "date": "2026-11-17T12:52:29+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
