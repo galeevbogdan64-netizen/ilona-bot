@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-27T07:08:34.832169+00:00",
+ "updated": "2026-11-27T08:40:53.758317+00:00",
  "orders": [
+  {
+   "id": "7f2aac70ec85",
+   "title": "Поправить сайт на WordPress на конструкторе Elementor",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530729/popravit-sayt-na-wordpress-na-konstruktore-elementor.html",
+   "date": "2026-11-27T08:06:40+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "bd8afcdf3bf9",
+   "title": "Интеграция телефонии с CRM (Бюджет: 10 000 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530732/integratsiya-telefonii-s-crm.html",
+   "date": "2026-11-27T08:07:34+00:00",
+   "fit": 79,
+   "price": 9500,
+   "hours": 8,
+   "budget": "10 000 ₽",
+   "why": "Парсер / автоматизация: совпало «api, интеграц». Бюджет клиента ~10 000 ₽"
+  },
+  {
+   "id": "1be6617625b9",
+   "title": "Яндекс Директ для интернет-магазина",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530734/yandeks-direkt-dlya-internet-magazina.html",
+   "date": "2026-11-27T08:12:31+00:00",
+   "fit": 79,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "28699d9c8bdb",
+   "title": "создание сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530733/sozdanie-sayta.html",
+   "date": "2026-11-27T08:34:58+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "7617849e5fa7",
    "title": "Заменить формы на сайте wordpress",
@@ -2352,54 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "2e04e95208b5",
-   "title": "Нужно сделать иконки для сайта конфигуратора дверей. Есть образец.",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529650/nujno-sdelat-ikonki-dlya-sayta-konfiguratora-dverey-est-obrazets.html",
-   "date": "2026-11-18T04:58:42+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "9f0ca82396ea",
-   "title": "Провести бухгалтерский аудит ИП на УСН",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529661/provesti-buhgalterskiy-audit-ip-na-usn.html",
-   "date": "2026-11-18T04:53:53+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «интернет-магазин». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "08c5c24467c2",
-   "title": "Создать игру в Роблокс",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529644/sozdat-igru-v-robloks.html",
-   "date": "2026-11-18T04:53:22+00:00",
-   "fit": 57,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «скрипт». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "7a42bf1106f3",
-   "title": "Производство сайта. (Бюджет: 70 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529649/proizvodstvo-sayta.html",
-   "date": "2026-11-17T21:58:41+00:00",
-   "fit": 67,
-   "price": 66500,
-   "hours": 12,
-   "budget": "70 000 ₽",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~70 000 ₽"
   }
  ]
 }
