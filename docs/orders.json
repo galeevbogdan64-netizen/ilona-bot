@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-27T14:22:31.815163+00:00",
+ "updated": "2026-11-27T15:36:26.751300+00:00",
  "orders": [
+  {
+   "id": "e3b0ef60f17b",
+   "title": "Установка CMS Wordpress для сайта",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530791/ustanovka-cms-wordpress-dlya-sayta.html",
+   "date": "2026-11-27T15:03:51+00:00",
+   "fit": 97,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, верстк, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "4f1ceb6e1507",
+   "title": "Создать название и логотип для космических пазлов (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530788/sozdat-nazvanie-i-logotip-dlya-kosmicheskih-pazlov.html",
+   "date": "2026-11-27T14:49:13+00:00",
+   "fit": 89,
+   "price": 9000,
+   "hours": 6,
+   "budget": "",
+   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
+  },
+  {
+   "id": "59497f3b6016",
+   "title": "Разработать Telegram Mini App — афиша мероприятий города (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530786/razrabotat-telegram-mini-app--afisha-meropriyatiy-goroda.html",
+   "date": "2026-11-27T14:48:13+00:00",
+   "fit": 69,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «android, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "68200a7946af",
+   "title": "Крауд-ссылки (форумы, блоги) для аниме-портала",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530790/kraud-ssyilki-forumyi-blogi-dlya-anime-portala.html",
+   "date": "2026-11-27T15:00:03+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "42270470d7f7",
    "title": "AI-обработка фото L-39 «Русь» для карточки товара",
@@ -2352,54 +2400,6 @@
    "hours": 12,
    "budget": "",
    "why": "Сайт / лендинг: совпало «сайт, тильда». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "ec7543330e60",
-   "title": "Реновация сайта с помощью Claude",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529685/renovatsiya-sayta-s-pomoschyu-claude.html",
-   "date": "2026-11-18T07:47:38+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "9d0d1fe7c1e4",
-   "title": "На основании ссылки на ресурс и по номеру сертификата получить недостающие данные",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529682/na-osnovanii-ssyilki-na-resurs-i-po-nomeru-sertifikata-poluchit-nedostayuschie-dannyie.html",
-   "date": "2026-11-18T07:48:22+00:00",
-   "fit": 57,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «парсинг». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "bb88a4c1ad0b",
-   "title": "Ищу маркетолога с опытом B2C-подписок для консультации по продвижению ИИ-сервиса — 7 000 ₽ (Бюджет: 7 000 ₽, для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529678/ischu-marketologa-s-opyitom-b2c-podpisok-dlya-konsultatsii-po-prodvijeniyu-ii-servisa--7000-.html",
-   "date": "2026-11-18T07:00:46+00:00",
-   "fit": 57,
-   "price": 6500,
-   "hours": 40,
-   "budget": "7 000 ₽",
-   "why": "Приложение: совпало «мобильн». Бюджет клиента ~7 000 ₽"
-  },
-  {
-   "id": "5e2f1236076e",
-   "title": "сайт-визитка психолога на Tilda. Есть сайт-образец, структуру и стиль которого нужно повторить",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529641/sayt-vizitka-psihologa-na-tilda-est-sayt-obrazets-strukturu-i-stil-kotorogo-nujno-povtorit-.html",
-   "date": "2026-11-18T06:00:33+00:00",
-   "fit": 97,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «tilda, сайт, сайт-визитк». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
