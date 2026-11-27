@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-27T05:56:49.699977+00:00",
+ "updated": "2026-11-27T07:08:34.832169+00:00",
  "orders": [
+  {
+   "id": "7617849e5fa7",
+   "title": "Заменить формы на сайте wordpress",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530711/zamenit-formyi-na-sayte-wordpress.html",
+   "date": "2026-11-27T06:03:50+00:00",
+   "fit": 89,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "8d14cd0da7f0",
+   "title": "Бот в телеграм",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530718/bot-v-telegram-.html",
+   "date": "2026-11-27T06:03:44+00:00",
+   "fit": 79,
+   "price": 21000,
+   "hours": 14,
+   "budget": "",
+   "why": "Telegram-бот: совпало «бот в телеграм, телеграм бот». Бюджет не указан — цена по ставке, ~14 ч"
+  },
+  {
+   "id": "1fcee39a0b04",
+   "title": "ИИ-ассистент для отеля: голос, MAX, виджет на сайте",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530725/ii-assistent-dlya-otelya-golos-max-vidjet-na-sayte.html",
+   "date": "2026-11-27T07:06:46+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "d093254fcfd8",
+   "title": "Нужна автоматизация обработки заявок",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530722/-nujna-avtomatizatsiya-obrabotki-zayavok.html",
+   "date": "2026-11-27T06:33:15+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "a0c07087e410",
+   "title": "Telegram Mini App (личный кабинет + подписки)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530719/telegram-mini-app-lichnyiy-kabinet--podpiski.html",
+   "date": "2026-11-27T06:08:05+00:00",
+   "fit": 57,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «html». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "5e114362eee5",
    "title": "Требуется программист - доработка PHP форм обратной связи на 10 сайтах (Бюджет: 250 ₽)",
@@ -2340,66 +2400,6 @@
    "hours": 12,
    "budget": "70 000 ₽",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~70 000 ₽"
-  },
-  {
-   "id": "1994b89279c5",
-   "title": "Нужен сайт для компании по натяжным потолкам в Москве",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529659/nujen-sayt-dlya-kompanii-po-natyajnyim-potolkam-v-moskve.html",
-   "date": "2026-11-17T21:56:35+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "8f559326ae3c",
-   "title": "Записать короткое игровое видео (тест игрового веб-чата с эмоциями) (Бюджет: 100 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529637/zapisat-korotkoe-igrovoe-video-test-igrovogo-veb-chata-s-emotsiyami.html",
-   "date": "2026-11-17T18:26:15+00:00",
-   "fit": 57,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "df4efc55c1d2",
-   "title": "Консультация по верификации в Claude (Бюджет: 4 000 ₽)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529631/konsultatsiya-po-verifikatsii-v-claude.html",
-   "date": "2026-11-17T17:53:56+00:00",
-   "fit": 57,
-   "price": 4000,
-   "hours": 8,
-   "budget": "4 000 ₽",
-   "why": "Парсер / автоматизация: совпало «интеграц». Бюджет клиента ~4 000 ₽"
-  },
-  {
-   "id": "9194185a2a3c",
-   "title": "Изготовление 3-ех логотипов по аналогии",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529612/izgotovlenie-3-eh-logotipov-po-analogii.html",
-   "date": "2026-11-17T15:25:21+00:00",
-   "fit": 89,
-   "price": 9000,
-   "hours": 6,
-   "budget": "",
-   "why": "Логотип / фирменный стиль: совпало «лого, логотип». Бюджет не указан — цена по ставке, ~6 ч"
-  },
-  {
-   "id": "a09d40838283",
-   "title": "Разработка сайта под ключ (WordPress) + Квиз (Marquiz)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529606/razrabotka-sayta-pod-klyuch-wordpress--kviz-marquiz.html",
-   "date": "2026-11-17T14:20:37+00:00",
-   "fit": 89,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «wordpress, сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
