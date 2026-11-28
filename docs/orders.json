@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-28T06:35:32.970521+00:00",
+ "updated": "2026-11-28T07:53:35.744299+00:00",
  "orders": [
+  {
+   "id": "826177326383",
+   "title": "Разработка системы управления мойкой самообслуживания (8 постов): ПЛК + шлюз + мобильное приложение (для всех)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530827/razrabotka-sistemyi-upravleniya-moykoy-samoobslujivaniya-8-postov-plk--shlyuz--mobilnoe-prilojenie.html",
+   "date": "2026-11-28T07:48:03+00:00",
+   "fit": 97,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «android, ios, мобильн, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "0c3daf59b8d3",
+   "title": "Тестирование приложения на Android",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530822/testirovanie-prilojeniya-na-android-.html",
+   "date": "2026-11-28T06:08:08+00:00",
+   "fit": 79,
+   "price": 60000,
+   "hours": 40,
+   "budget": "",
+   "why": "Приложение: совпало «android, приложение». Бюджет не указан — цена по ставке, ~40 ч"
+  },
+  {
+   "id": "3a4e7fd78fe1",
+   "title": "Редизайн и доработка действующего сайта [укажите тематику, например: интернет-магазина / лендинга] (Бюджет: 300 ₽)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530806/redizayn-i-dorabotka-deystvuyuschego-sayta-ukajite-tematiku-naprimer-internet-magazina---lendinga.html",
+   "date": "2026-11-28T06:12:51+00:00",
+   "fit": 72,
+   "price": 3000,
+   "hours": 12,
+   "budget": "300 ₽",
+   "why": "Сайт / лендинг: совпало «интернет-магазин, лендинг, сайт». Бюджет клиента ~300 ₽"
+  },
+  {
+   "id": "74ceef4c65bf",
+   "title": "Ищу Python-разработчика для создания простого AI-агента (учебный MVP)",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530824/ischu-python-razrabotchika-dlya-sozdaniya-prostogo-ai-agenta-uchebnyiy-mvp.html",
+   "date": "2026-11-28T06:13:19+00:00",
+   "fit": 67,
+   "price": 12000,
+   "hours": 8,
+   "budget": "",
+   "why": "Парсер / автоматизация: совпало «python». Бюджет не указан — цена по ставке, ~8 ч"
+  },
+  {
+   "id": "c81fedac117f",
+   "title": "Создать скрипт для автоматического бронирования времени пропуска через границу на сайте ГИС ЭПД",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530809/sozdat-skript-dlya-avtomaticheskogo-bronirovaniya-vremeni-propuska-cherez-granitsu-na-sayte-gis-epd.html",
+   "date": "2026-11-28T06:07:02+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
+  {
+   "id": "70ff7298e68e",
+   "title": "Дизайн главной страницы корпоративного сайта с авторской анимацией",
+   "source": "FL.ru",
+   "url": "https://www.fl.ru/projects/5530796/dizayn-glavnoy-stranitsyi-korporativnogo-sayta-s-avtorskoy-animatsiey.html",
+   "date": "2026-11-28T06:00:51+00:00",
+   "fit": 67,
+   "price": 18000,
+   "hours": 12,
+   "budget": "",
+   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
+  },
   {
    "id": "ab9a7fa923aa",
    "title": "Доработка сайта на Опенкарт 2.3",
@@ -2328,78 +2400,6 @@
    "hours": 12,
    "budget": "15 000 ₽",
    "why": "Сайт / лендинг: совпало «сайт». Бюджет клиента ~15 000 ₽"
-  },
-  {
-   "id": "e46f4b9337ca",
-   "title": "Требуется создать на Тильде сайта для базы отдыха",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529719/trebuetsya-sozdat-na-tilde-sayta-dlya-bazyi-otdyiha.html",
-   "date": "2026-11-18T10:19:54+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "225dc3cd75e9",
-   "title": "Привлечение клиентов для автоматизации процессов у частных лиц и бизнеса",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529718/privlechenie-klientov-dlya-avtomatizatsii-protsessov-u-chastnyih-lits-i-biznesa.html",
-   "date": "2026-11-18T10:18:07+00:00",
-   "fit": 67,
-   "price": 12000,
-   "hours": 8,
-   "budget": "",
-   "why": "Парсер / автоматизация: совпало «автоматизац». Бюджет не указан — цена по ставке, ~8 ч"
-  },
-  {
-   "id": "e9e751d78329",
-   "title": "Требуется разработка с нуля протоколов и Kotlin SDK для POS-терминалов SUNMI",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529724/trebuetsya-razrabotka-s-nulya-protokolov-i-kotlin-sdk-dlya-pos-terminalov-sunmi-.html",
-   "date": "2026-11-18T10:52:14+00:00",
-   "fit": 57,
-   "price": 60000,
-   "hours": 40,
-   "budget": "",
-   "why": "Приложение: совпало «android». Бюджет не указан — цена по ставке, ~40 ч"
-  },
-  {
-   "id": "1b4d090b7101",
-   "title": "Звонки собственникам квартир в Москве — удалённо, оплата за результат! (для всех)",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529712/zvonki-sobstvennikam-kvartir-v-moskve--udalnno-oplata-za-rezultat.html",
-   "date": "2026-11-18T09:56:51+00:00",
-   "fit": 57,
-   "price": 14000,
-   "hours": 8,
-   "budget": "15 000 ₽",
-   "why": "Парсер / автоматизация: совпало «скрипт». Бюджет клиента ~15 000 ₽"
-  },
-  {
-   "id": "0bffa8bfcc15",
-   "title": "Редизайн интернет-магазина с сохранением обмена с «Мой склад»",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529688/redizayn-internet-magazina-s-sohraneniem-obmena-s-moy-sklad.html",
-   "date": "2026-11-18T08:10:47+00:00",
-   "fit": 79,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «интернет-магазин, сайт». Бюджет не указан — цена по ставке, ~12 ч"
-  },
-  {
-   "id": "3d038c19193f",
-   "title": "Ищем веб-дизайнера для разработки дизайна сайта",
-   "source": "FL.ru",
-   "url": "https://www.fl.ru/projects/5529696/ischem-veb-dizaynera-dlya-razrabotki-dizayna-sayta.html",
-   "date": "2026-11-18T09:09:47+00:00",
-   "fit": 67,
-   "price": 18000,
-   "hours": 12,
-   "budget": "",
-   "why": "Сайт / лендинг: совпало «сайт». Бюджет не указан — цена по ставке, ~12 ч"
   }
  ]
 }
